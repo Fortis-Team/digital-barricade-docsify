@@ -1,6 +1,6 @@
 - [Home](/)
-- [Korean Version](/kr/)
-- [한글](/kr/)
+- [Japanese Version](/jp/)
+- [日本語](/jp/)
 
 <details>
 <summary>Languages</summary>
