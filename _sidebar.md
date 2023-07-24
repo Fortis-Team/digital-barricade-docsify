@@ -11,6 +11,10 @@
 - Account Admin
   - [Devices](/account_admin/devices.md)
   - [Groups](/account_admin/groups.md)
+  - [Media Library](/account_admin/media_library.md)
+  - [Playlist](/account_admin/playlist.md)
+  - [Manage Users](/account_admin/manage_users.md)
+  - [Access Invitations](/account_admin/access_invitations.md)
 
 - Account User
   - [Devices](/account_user/devices.md)
