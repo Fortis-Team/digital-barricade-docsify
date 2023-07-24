@@ -1,9 +1,8 @@
-#  Digital Barricade
+- [**<summary>Home</summary>**](/configuration.md)
 
-- [Eglish Version](/)
-- [Configuration](/configuration)
+- **<details><summary>Distributor</summary>**
 
-- Languages
-  - [English](/)
-  - [日本語](/jp/)
-  - [Korean](/kr/)
+  - [Devices](/jp/distributor_jp/devices_jp.md)
+  - [Groups](/)
+
+</details>
