@@ -1,22 +1,11 @@
 - [Home](/)
 
-<details>
-<summary>Languages</summary>
+- Account User
+  - [Devices](/account_user/devices.md)
+  - [Groups](/account_user/groups.md)
 
-- [English](/)
-- [Korean](/kr/)
-- [Japanese](/jp/)
-
-</details>
-
-<details>
-<summary>Distributor</summary>
-
-- [Devices](/distributor/devices/)
-- [Groups](/distributor/groups/)
-- [Media Library](/distributor/media/)
-- [Playlists](/distributor/playlists/)
-- [Manage Users](/distributor/manageUsers/)
-- [Manage Accounts](/distributor/manageAccounts/)
-
-</details>
+- Languages
+  - [English](/)
+  - [Korean](/kr/)
+  oten
+  
