@@ -44,5 +44,5 @@
     <p>
         同じアカウントまたは別のアカウントを使用して、デバイスはスマートフォンアプリを通じてクラウドに再登録できます。
     </p>
-    <img src="/images/image9.png" alt="sample"  width="100%" height="600">
+    <img src="/images/image20.png" alt="sample"  width="100%" height="600">
 </div>
