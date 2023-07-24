@@ -1,6 +1,9 @@
-- [Korean Version](/kr/)
-- [구성](/kr/)
+#  Digital Barricade
+
+- [Eglish Version](/)
+- [한국어](/configuration)
 
 - Languages
   - [English](/)
-  - [Korean](/kr/)
+  - [Japanese](/jp/)
+  - [한국어](/kr/)
