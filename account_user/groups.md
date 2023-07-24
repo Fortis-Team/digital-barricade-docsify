@@ -1,25 +1,25 @@
-<small><b>Account User</b> / Groups</small>
+<small><b>계정 사용자</b> / 그룹</small>
 
 <br />
-<h1>Creating a group for device playlist</h1>
+<h1>장치 재생 목록에 대한 그룹 만들기</h1>
 <div class="description">
     <p>
-        In the panel's groups tab, the user can see which playlist is currently playing on several devices. They are also capable of managing and make changes to the playlists on all devices within a particular group, allowing for smooth control over the content being played.
+        패널의 그룹 탭에서 사용자는 현재 여러 장치에서 재생 중인 재생 목록을 확인할 수 있습니다. 또한 특정 그룹 내의 모든 장치에서 재생 목록을 관리하고 변경할 수 있으므로 재생 중인 콘텐츠를 원활하게 제어할 수 있습니다.
     </p>
     <img src="/images/image19.png" alt="group_create_playlist" width="100%" height="600">
 </div>
 <div class="description">
     <p>
-        When establishing a new playlist group, the user is required to set the group's name, select which playlist that will be used, and finally, select the devices that will play the chosen playlist.
+        새로운 재생 목록 그룹을 만들 때 사용자는 그룹 이름을 설정하고 사용할 재생 목록을 선택하고 마지막으로 선택한 재생 목록을 재생할 장치를 선택해야 합니다.
     </p>
     <img src="/images/image4.png" alt="add_new_group" width="50%" height="500">
 </div>
 
 <br />
-<h1>Edit group device</h1>
+<h1>그룹 장치 수정</h1>
 <div class="description">
     <p>
-        The user has the ability to make changes to a group by selecting the edit option from the dropdown menu associated with that specific group. They can then proceed to modify the name of the group, the playlist assigned to it, and manage the devices that will be used to play the chosen playlist. This grants the user the flexibility to customize the group settings according to their preferences.
+        사용자는 특정 그룹과 연결된 드롭다운 메뉴에서 편집 옵션을 선택하여 그룹을 변경할 수 있습니다. 그런 다음 계속해서 그룹 이름, 그룹에 할당된 재생 목록을 수정하고 선택한 재생 목록을 재생하는 데 사용할 장치를 관리할 수 있습니다. 이를 통해 사용자는 기본 설정에 따라 그룹 설정을 사용자 정의할 수 있는 유연성을 얻을 수 있습니다.
     </p>
     <img src="/images/image15.png" alt="device_group" width="100%" height="600">
     <img src="/images/image7.png" alt="device_group" width="80%" height="600">
