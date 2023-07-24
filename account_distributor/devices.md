@@ -1,12 +1,12 @@
 <small><b>유통 업체</b> / 기기</small>
 
 <br />
-<h1>장치 목록</h1>
+<h1>장치 구성</h1>
 <div class="description">
     <p>
         창의 왼쪽 패널은 유통업체가 각 등록된 기기에 대해 다른 탭을 구성할 수 있게 해줍니다. 유통업체는 등록된 모든 기기가 나열된 기기 탭에서 기기를 편집하거나 등록 해제하거나 재부팅할 수 있습니다. 
     </p>
-    <img src="./images/image13.png" alt="list_of_devices"  width="100%" height="600">
+    <img src="./images/distriAccDevice.png" alt="list_of_devices"  width="100%" height="600">
 </div>
 
 <br />
@@ -31,7 +31,7 @@
 
 동일한 계정 또는 다른 계정을 사용하여, 기기는 폰 앱을 통해 클라우드에 다시 등록할 수 있습니다.
     </p>
-    <!-- <img src="/images/image9.png" alt="reboot"  width="100%" height="600"> -->
+    <img src="/images/unregisterDevice.png" alt="reboot"  width="100%" height="600">
 </div>
 
 <br />
