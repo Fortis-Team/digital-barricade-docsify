@@ -1,18 +1,6 @@
 <small><b>Account Admin</b> / Devices</small>
 
 <br />
-<h1>Roles (User and Admin Management)</h1>
-<div class="description">
-    <p>
-       An Admin account will be able invite another or a user under this account that was given by the Distributor account.
-    </p>
-    <p>
-      An Admin account will be able to manage user and admin accounts like, resetting passwords, changing names and email. The only thing the Admin account will not be able to do is deleting users and admin.
-    </p>
-</div>
-
-<br />
-<h1>Roles(Device Management)</h1>
 <h1>Device Configuration</h1>
 <div class="description">
     <img class="center" src="/images/image27.png" alt="device_config"  width="100%" height="600">
