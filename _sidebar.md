@@ -9,7 +9,7 @@
 
 - **<details><summary>Account Admin</summary>**
 
-  - [Devices](/Account_Admin/devices.md)
+  - [Devices](/account_admin/devices_admin.md)
   - [Groups](/)
   - [Media Library](/)
   - [Playlists](/)
