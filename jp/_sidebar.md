@@ -30,11 +30,7 @@
 
 </details>
 
-- **<details><summary>言語</summary>**
-
-  - [えいご](/)
-  - [日本語](/jp/)
-  - [韓国語" (かんこくご -](/kr/)
-
-</details>
-
+- Languages
+  - [English](/)
+  - [Japanese](/jp/)
+  - [Korean](/kr/)
