@@ -30,22 +30,22 @@
 </div>
 
 <br />
-<h1>Edit Group</h1>
+<h1>グループ編集</h1>
 <div class="description">
     <img src="/images/image308.png" alt="edit_device_config"  width="33%" height="400">
     <img src="/images/image309.png" alt="edit_device_config"  width="33%" height="400">
     <p> 
-       By choosing the Edit option the Admin will be taken to this modal window where they will be able to edit the configuration of the chosen existing group, they will be able to change the group name, change the group’s playlist, add/remove devices to the group.
+       管理者は「編集」オプションを選択すると、選択した既存のグループの設定を編集するためのモーダルウィンドウに移動します。グループ名の変更、グループのプレイリストの変更、グループへのデバイスの追加・削除ができます。
     <br />
-        To save the changes made to the group, click the Save Changes button.
+        グループへの変更を保存するには、「変更を保存する」ボタンをクリックしてください。
     </p>
 </div>
 
 <br />
-<h1>Edit Group</h1>
+<h1>グループを削除する。</h1>
 <div class="description">
     <img src="/images/image310.png" alt="edit_device_config"  width="33%" height="400">
-    <p> 
-       Under the Edit option, the Admin can delete a group. To do this, select the Delete option which will then open a modal window to confirm the deletion of the group click the Continue delete button.
+    <p>       
+        「編集」オプションの下で、管理者はグループを削除できます。削除するには、「削除」オプションを選択し、その後グループの削除を確認するためのモーダルウィンドウが表示されます。削除を続けるには、「削除を続ける」ボタンをクリックしてください。
     </p>
 </div>

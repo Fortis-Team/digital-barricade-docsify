@@ -17,7 +17,7 @@
   - [グループ](/jp/account_admin_jp/groups_admin_jp.md)
   - [メディアライブラリー](/jp/account_admin_jp/media_library_admin_jp.md)
   - [プレイリスト](/jp/account_admin_jp/playlists_admin_jp.md)
-  - [ユーザー管理](/jp/account_admin_jp/)
+  - [ユーザー管理](/jp/account_admin_jp/manage_users_admin_jp.md)
 
 </details>
 

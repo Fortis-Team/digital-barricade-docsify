@@ -1,70 +1,70 @@
 <small><b>Account Admin</b> / Playlist</small>
 
 <br />
-<h1>Playlist Management</h1>
+<h1>プレイリスト管理 (プレイリストかんり)</h1>
 <div class="description">
     <img src="/images/401.png" alt="playlist_manager" width="100%" height="600">
     <p>
-        In the left side panel if the Playlists was selected the Admin will see this screen. This where the Admin will be able to view all of the created and available playlists under their account. In this page, the Admin will be able to create a new playlist, configure existing playlists and delete playlists.
+        左側のパネルで「プレイリスト」が選択された場合、管理者はこの画面を見ることができます。ここでは、管理者はアカウント内のすべての作成済みかつ利用可能なプレイリストを表示できます。このページでは、管理者は新しいプレイリストを作成したり、既存のプレイリストを設定したり、プレイリストを削除したりすることができます。
     </p>
 </div>
 
 <br />
-<h1>Creating a Playlist</h1>
+<h1>プレイリストの作成 (プレイリストのさくせい)</h1>
 <div class="description">
     <p>
-        To create a new playlist, click the Add Playlist button as pointed out in the picture.
+        新しいプレイリストを作成するには、画像で指示されているように「プレイリストの追加」ボタンをクリックしてください。
     </p>
     <img src="/images/image402.png" alt="create_playlist" width="90%" height="500">
     <p>
-        The Admin can either choose a Duration based or Schedule/Time Based playlist click on Add an Item 
+        管理者は、期間ベースのプレイリストまたはスケジュール/時間ベースのプレイリストのどちらかを選択し、「アイテムを追加」をクリックすることができます。
     </p>
     <img src="/images/image403.png" alt="create_playlist" width="70%" height="500">
 </div>
 
 <br />
-<h1>Duration Based</h1>
+<h1>期間ベース (きかんベース)</h1>
 <div class="description">
     <img src="/images/image405.png" alt="duration" width="90%" height="550">
     <p>
-        If the Admin chose the Duration Based option this modal window will appear where they will be able to choose the Language, Text to be displayed, Font Size, Font Style, Font Color and for the Duration Based the duration of this item will show/play on the device.
+        管理者が「期間ベース」オプションを選択した場合、このモーダルウィンドウが表示されます。管理者はここで言語、表示されるテキスト、フォントサイズ、フォントスタイル、フォントカラーを選択できます。また、「期間ベース」では、このアイテムの表示/再生時間もデバイスに表示されます。
     <br />
-        If the Admin wants to see the changes they made they have to press the Generate Preview button to see the preview of the changes they made and to add the item to the playlist they need to press the Add Item to list button.
+        管理者が行った変更内容を確認したい場合は、「プレビューを生成」ボタンを押して変更内容のプレビューを表示します。そして、アイテムをプレイリストに追加するには、「リストに追加」ボタンを押してください。
     </p>
 </div>
 
 <br />
-<h1>Schedule/Time Based</h1>
+<h1>スケジュール/時間ベース (スケジュール/じかんベース)</h1>
 <div class="description">
     <img src="/images/image406.png" alt="duration" width="90%" height="550">
     <p>
-        If the Admin chose the Schedule/Time Based option this modal window will appear where they will be able to choose the Language, Text to be displayed, Font Size, Font Style, Font Color and for the Schedule/Time Based the days and the specific start and end time of the item will play.
+        管理者が「スケジュール/時間ベース」オプションを選択した場合、このモーダルウィンドウが表示されます。管理者はここで言語、表示されるテキスト、フォントサイズ、フォントスタイル、フォントカラーを選択できます。また、「スケジュール/時間ベース」では、アイテムの再生が特定の曜日と開始・終了時刻に設定されます。
     <br />
-        If the Admin wants to see the changes they made they have to press the Generate Preview button to see the preview of the changes they made and to add the item to the playlist they need to press the Add Item to list button.
+        管理者が行った変更内容を確認したい場合は、「プレビューを生成」ボタンを押して変更内容のプレビューを表示します。そして、アイテムをプレイリストに追加するには、「リストに追加」ボタンを押してください。
     </p>
     <img src="/images/image407.png" alt="duration" width="90%" height="550">
     <p>
-        Then, to add/save the newly created playlist once the Admin is satisfied with their modifications. Click the Save button.
+        管理者が変更内容に満足して新しく作成したプレイリストを追加/保存するには、「保存」ボタンをクリックしてください。
     </p>
 </div>
 
 <br />
-<h1>Editing a Playlist</h1>
+<h1>プレイリストの編集 (プレイリストのへんしゅう)</h1>
 <div class="description">
     <img src="/images/image408.png" alt="duration" width="40%" height="550">
     <img src="/images/image409.png" alt="duration" width="50%" height="550">
     <p>
-        By choosing the Edit option the Admin will be taken to this modal window where they will be able to change the playlist’s name, display size, playing mode and edit individual items like change the time for time based playlist or change the duration for duration based playlist.
-    <br />
-        To save the changes made to the playlist, click the Save Changes button this will result in whichever device has this playlist will update its content automatically.
+        「編集」オプションを選択すると、管理者はこのモーダルウィンドウに移動します。そこで、プレイリストの名前、表示サイズ、再生モードを変更したり、時間ベースのプレイリストでは時間を変更したり、期間ベースのプレイリストでは再生時間を変更したりすることができます。
+    <br />  
+        プレイリストに加えた変更を保存するには、「変更を保存する」ボタンをクリックしてください。これにより、このプレイリストを持っているデバイスは自動的に内容が更新されます。
     </p>
 </div>
 
 <br />
-<h1>Deleting a Playlist</h1>
+<h1>プレイリストの削除 (プレイリストのさくじょ)</h1>
 <div class="description">
     <img src="/images/image410.png" alt="duration" width="40%" height="550">
     <p>
-        Under the Edit option, the Admin can delete a playlist. To do this, select the Delete option which will then open a modal window to confirm the deletion of the playlist click the Continue delete button.
+        「編集」オプションの下で、管理者はプレイリストを削除できます。削除するには、「削除」オプションを選択し、その後プレイリストの削除を確認するためのモーダルウィンドウが表示されます。削除を続けるには、「削除を続ける」ボタンをクリックしてください。
     </p>
 </div>
