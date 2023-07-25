@@ -23,3 +23,15 @@
     <img src="/images/image33.png" alt="sample"  width="40%" height="600">
     <img src="/images/image34.png" alt="sample"  width="40%" height="600">
 </div>
+
+<br />
+<h1>アカウントの編集 / ライセンスの調整</h1>
+<div class="description">
+    <p>
+        ディストリビューターは、ドロップダウンメニューの中から「アカウントの編集」を選択することで、各アカウントの情報を更新することができます。
+    </p>
+    <img src="/images/image35.png" alt="sample"  width="100%" height="600">
+    <img src="/images/image36.png" alt="sample"  width="40%" height="600">
+    <img src="/images/image37.png" alt="sample"  width="40%" height="600">
+</div>
+

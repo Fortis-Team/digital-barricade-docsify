@@ -6,25 +6,25 @@
     <p>       
         プレイリストマネージャーには、グループを作成する際に使用されるプレイリストが含まれており、ここでアップロードされたメディアが活用されます。
     </p>
-    <img src="/images/image21.png" alt="uploaded_media_assets" width="100%" height="600">
+    <img src="/images/image002.png" alt="uploaded_media_assets" width="100%" height="600">
 </div>
 <div class="description">
     <p>       
         ディストリビューターは、プレイリストの名前と表示サイズを設定することができます。プレイリストを作成する際には、再生モードを選択する必要があります。再生モードには、時間ベースのものとスケジュールベースのものがあります。時間ベースの場合、デフォルトで20秒の再生時間が設定されます。スケジュールベースの場合、ディストリビューターは月曜日から日曜日までの再生スケジュールを設定します。
     </p>
-    <img src="/images/image22.png" alt="uploaded_media_assets" width="100%" height="600">
+    <img src="/images/image003.png" alt="uploaded_media_assets" width="100%" height="600">
 </div>
 <div class="description">
     <p>       
         アイテムを追加」ボタンをクリックすると、ディストリビューターは新しいモーダルに移動し、プレイリストのさまざまなカスタマイズオプションが表示されます。これらのオプションの中で、ディストリビューターは必要な情報を効果的に表示するための表示テキストを設定することができます。表示テキストの位置はX座標とY座標を調整して変更でき、さらなる柔軟性を持たせるために、反転スイッチでテキストの向きを反転させることもできます。また、プレイリストの可視性を管理するために、アクティブスイッチがあり、プレイリストが現在アクティブかどうかが表示されます。
     </p>
-    <img src="/images/image23.png" alt="uploaded_media_assets" width="100%" height="600">
+    <img src="/images/image004.png" alt="uploaded_media_assets" width="100%" height="600">
 </div>
 <div class="description">
     <p>       
         話し言葉の文や自動翻訳を有効にする言語設定が可能です。ディストリビューターは、意図した結果に合わせて、表示テキストの見た目を制御することができます。フォントのサイズ、スタイル、色を変更することができます。ディストリビューターは、表示テキストの背景にさまざまな背景色を選択するか、アップロードされたメディアアセットを背景として使用して、美的な魅力を向上させることもできます。すべての変更が完了したら、リロードプレビューボタンを使用して、変更後の表示テキストの見た目を確認できます。
     </p>
-    <img src="/images/image24.png" alt="uploaded_media_assets" width="100%" height="600">
+    <img src="/images/image005.png" alt="uploaded_media_assets" width="100%" height="600">
 </div>
 
 <br />
@@ -33,6 +33,6 @@
     <p>      
         選択したプレイリストを変更するには、鉛筆のアイコンをクリックし、モーダルが表示されます。そのモーダルでディストリビューターは必要に応じてプレイリストをカスタマイズできます。プレイリストを変更した後、モーダルの下部に「アイテムを更新」ボタンが表示され、変更内容を保存できます。
     </p>
-    <img src="/images/image25.png" alt="edit_uploaded_media_assets" width="100%" height="400">
-    <img src="/images/image26.png" alt="edit_media_assets" width="100%" height="500">
+    <img src="/images/image006.png" alt="edit_uploaded_media_assets" width="100%" height="400">
+    <img src="/images/image007.png" alt="edit_media_assets" width="100%" height="500">
 </div>
