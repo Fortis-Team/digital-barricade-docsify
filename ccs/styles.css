@@ -1,3 +1,17 @@
+:root {
+  --base-font-size: 14px;
+  --theme-color: rgb(16, 180, 245);
+}
+
+.sidebar>h1 {
+  text-align: left;
+  font-weight: 400;
+}
+
+.sidebar {
+  width: 22rem;
+  padding-left: 25px;
+}
 div.description {
   margin-left: 30px;
   margin-bottom: 50px;

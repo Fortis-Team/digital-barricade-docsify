@@ -1,17 +1,19 @@
 # Welcome to Digital Barricade Documentation
 
-[![Logo](./images/logo.png)](https://staging-access.digitalbarricade.com/login)
-
 ## Distributor
 
-> The distributor plays a crucial role in overseeing multiple accounts. The distributor has access to a comprehensive view of all added accounts, including a demo account holding various registered devices. All the information of the accounts are accessible through the "manage accounts" tab on the panel. Important details such as account names, number of licenses used, and default email addresses, are listed for easy reference. A notable feature is the absence of access restrictions on the distributor account, granting them the authority to manage any account available on the digital barricade website. To ensure fair and individual utilization of the software, a one-device-to-one-license policy is strictly upheld. Each device must possess its unique license to gain access and employ the software's functionalities. This system guarantees proper software management and control, safeguarding the integrity of the digital ecosystem.
+> The distributor will be the one who distributes the license to the customers/clients. They will choose how many licenses each account is allowed to utilize. Under the "Manage Accounts" tab of the panel, the distributor can view the newly added accounts, including the demo account with the list of registered devices. The name of each account, the number of active licenses, and the associated default email address are all displayed in this section.
+ 
+> The distributor can modify any account that was distributed to the customers on the Digital Barricade website. It is important to note that the licensing mechanism guarantees restricted one-to-one correlation, with a cap of one license per device. This thorough process ensures that each and every device needs a separate, individual license in order to access and use the software in an efficient manner.
 
 ## Admin Account
 
-> The "Manage Users" tab in the panel provides the distributor with comprehensive oversight of each account user. Within this tab, the distributor gains access to crucial information such as the user's name, email, specific roles, and current status. It's worth noting that there are some distinctions between the admin account and the user/customer accounts. While the admin account enjoys the privilege of accessing account sharing information, this feature is restricted for user/customer accounts. Consequently, the admin account holds the capability to track which accounts have been shared. Moreover, the user/customer account has limited accessibility, encompassing only devices, groups, media library, and playlists. However, apart from the distributor account, the admin account wields full control over all other accounts. This includes the ability to modify roles and reset passwords for added security and management efficiency.
+> For efficient management, the admin account can keep track on the shared accounts. The system's admin account has the authority to monitor both user and admin accounts. The "Manage Users" interface of the website provides an extensive overview of each user account, including details like names, email addresses, the roles assigned to each account, and their current status. 
+
+> An admin account holds the power to perform critical tasks, such as resetting passwords, modifying names, updating email addresses, and changing the role of an account. However, there is one limitation; the admin account lacks the authority to delete other accounts. 
 
 ## User Account
 
-> asdakshdkahd
+> To gain access to the digital barricade website, the user needs to follow a straightforward process. Firstly, they must navigate to the account sharing tab within the panel. Once there, they will find an invitation sent by either the distributor or an administrator. The user's next step is to accept this invitation, granting them entry to the website. This simple yet crucial procedure ensures that only authorized personnel can access the digital barricade, maintaining its integrity and safeguarding valuable information.
 
-
+> The user's access to the panel is restricted to devices, groups, the media library, and playlists, in contrast to distributor and admin accounts. This limited access guarantees that the user can carry out particular duties and actions necessary for their function.
