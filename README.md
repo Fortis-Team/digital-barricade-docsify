@@ -1,3 +1,3 @@
-# 표제
+# Headline
 
-> 멋진 프로젝트.
+> An awesome project.
