@@ -22,7 +22,7 @@
 </div>
 <div class="description">
     <p>
-        Additionally, the modal incorporates a dropdown menu that allows the user to select their desired language for spoken and written sentences, enabling automated translation. The user has the ability to customize the appearance of the displayed text by adjusting the font size, style, and color to achieve the desired outcome. They can also choose different background colors for the text or use the uploaded media assets as backgrounds to enhance the visual appeal. To preview the changes made, the user can simply click the reload preview button, which will show them how the display text will appear with the applied modifications.
+        Additionally, the modal incorporates a dropdown menu that allows the user to select their desired language for spoken and written sentences, enabling automated translation. The user can customize the appearance of the displayed text by adjusting the font size, style, and color to achieve the desired outcome. They can also choose different background colors for the text or use the uploaded media assets as backgrounds to enhance the visual appeal. To preview the changes made, the user can simply click the reload preview button, which will show them how the display text will appear with the applied modifications.
     </p>
     <img src="/images/image11.png" alt="add_playlist_manager_info" width="80%" height="500">
 </div>

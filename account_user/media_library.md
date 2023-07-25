@@ -4,7 +4,7 @@
 <h1>Uploading media assets</h1>
 <div class="description">
     <p>
-        The user has the ability to access the uploaded media, which comprises both images and videos, through the media library tab in the panel. The media that has been uploaded is utilized for creating a new playlist.
+        The user can access the uploaded media, which comprises both images and videos, through the media library tab in the panel. The media that has been uploaded is utilized for creating a new playlist.
     </p>
     <img src="/images/image18.png" alt="uploaded_media_assets" width="100%" height="600">
 </div>

@@ -10,7 +10,7 @@
 </div>
 <div class="description">
     <p>     
-        The distributor can upload a new media by clicking on the add media button and providing the desired name and media type (picture or video).
+        The distributor can upload new media by clicking on the add media button and providing the desired name and media type (picture or video).
     </p>
     <img src="/images/image513.png" alt="add_media_assets" width="50%" height="500">
 </div>

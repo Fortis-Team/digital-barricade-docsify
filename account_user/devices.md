@@ -25,7 +25,7 @@
 <h1>Reboot the device</h1>
 <div class="description">
     <p>
-        The device will restart after clicking the option to reboot from the dropdown menu, making it inaccessible for a brief period of time. Wait for the device to show that it is online when the reboot is finished.
+        The device will restart after clicking the option to reboot from the dropdown menu, making it inaccessible for a brief period. Wait for the device to show that it is online when the reboot is finished.
     </p>
     <img src="/images/image9.png" alt="reboot"  width="100%" height="600">
 </div>

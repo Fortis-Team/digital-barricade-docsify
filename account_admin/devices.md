@@ -5,7 +5,7 @@
 <div class="description">
     <img class="center" src="/images/image27.png" alt="device_config"  width="100%" height="600">
     <p>
-        In the left side panel if the Devices was selected the Admin will see this screen. This where the Admin will be able to read the registered devices, edit certain configurations of the devices, and unregister a device.
+        In the left side panel if the Devices was selected the Admin will see this screen. This is where the Admin will be able to read the registered devices, edit certain configurations of the devices, and unregister a device.
     </p>
     <img class="center" src="/images/image21.png" alt="device_config"  width="90%" height="500">
     <p> 
@@ -19,7 +19,7 @@
     <img src="/images/image81.png" alt="edit_device_config"  width="40%" height="700">
     <img src="/images/image31.png" alt="edit_device_config"  width="40%" height="700">
     <p> 
-        By choosing the Edit option the Admin will be taken to this modal window where they will be able to read information about the device in addition to that they will also be able to change the device’s Name, Timzone and assign a Playlist to the device.
+        By choosing the Edit option the Admin will be taken to this modal window where they will be able to read information about the device in addition to that they will also be able to change the device’s Name, and timezone and assign a Playlist to the device.
     </p>
 </div>
 

@@ -22,7 +22,7 @@
 </div>
 <div class="description">
     <p>       
-        Additionally, a dropdown menu is included in the modal to pick the preferred language for spoken sentences, enabling automated translation and vice versa. The distributor can control the display text's look by changing the font's size, style, and color to match their intended result. Distributors may also choose a variety of background color for the display text or use the uploaded media asset/s as the background to improve aesthetic appeal. Once all changes have been made, a reload preview button may be used to see how the display text will look after making the changes.
+        Additionally, a dropdown menu is included in the modal to pick the preferred language for spoken sentences, enabling automated translation and vice versa. The distributor can control the display text's look by changing the font's size, style, and color to match their intended result. Distributors may also choose a variety of background colors for the display text or use the uploaded media asset/s as the background to improve aesthetic appeal. Once all changes have been made, a reload preview button may be used to see how the display text will look after making the changes.
     </p>
     <img src="/images/image520.png" alt="uploaded_media_assets" width="90%" height="600">
 </div>

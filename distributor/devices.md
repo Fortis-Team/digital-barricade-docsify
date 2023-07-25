@@ -13,7 +13,7 @@
 <h1>Edit a device</h1>
 <div class="description">
     <p>
-        When the modal appears after clicking the edit on the dropdown menu, the distributor can set the current playlist that will be played, he/she can also choose the playback schedule for specific timezone for the playlist, rename the device, and view additional important details about the device.
+        When the modal appears after clicking the edit on the dropdown menu, the distributor can set the current playlist that will be played, he/she can also choose the playback schedule for a specific timezone for the playlist, rename the device, and view additional important details about the device.
     </p>
     <img src="/images/image502.png" alt="edit_device"  width="30%" height="500">
     <img src="/images/image503.png" alt="edit_device"  width="30%" height="500">

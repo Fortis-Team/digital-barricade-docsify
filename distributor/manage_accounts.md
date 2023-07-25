@@ -10,7 +10,7 @@
        There are no access restrictions on the distributor account, every account that is available on the digital barricade website can be managed by the distributor.
     </p>
      <p>
-        1 device is limited to 1 license. This ensures that each device must have its own individual license to access and utilize the software.
+        1 device is limited to 1 license. This ensures that each device must have its license to access and utilize the software.
     </p>
     <img src="/images/image530.png" alt="sample"  width="100%" height="600">
 </div>
