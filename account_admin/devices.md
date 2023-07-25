@@ -1,4 +1,4 @@
-<small><b>Account Admin</b> / Devices</small>
+<small><b>계정 관리자</b> / 기기</small>
 
 <br />
 <h1>장치 구성</h1>

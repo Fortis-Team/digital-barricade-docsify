@@ -26,6 +26,11 @@
         배포자는 드롭다운 메뉴에서 계정 수정을 클릭하여 각 계정의 정보를 업데이트할 수 있습니다.
     </p>
     <img src="./images/editCus1.png" alt="list_of_devices"  width="100%" height="200">
+    <br/>
+    <p> 
+        모달이 나타날 때, 유통업체는 이제 계정 이름, 청구 이메일, 전화번호, 주소를 업데이트하고, 기기 제한, 사용자 표시 이름 및 사용자 이메일을 변경할 수 있습니다.
+    </p>
+    <br/>
     <img src="./images/editCus2.png" alt="list_of_devices"  width="40%" height="500">
     <img src="./images/editCus3.png" alt="list_of_devices"  width="40%" height="500">
 </div>
