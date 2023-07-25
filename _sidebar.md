@@ -1,5 +1,12 @@
-- [Eglish Version](/)
-- [Configuration](/configuration)
+- [Home](/)
+
+- Account Distributor
+  - [Devices](/account_distributor/devices.md)
+  - [Groups](/account_distributor/groups.md)
+  - [Media Library](/account_distributor/media_library.md)
+  - [Playlist](/account_distributor/playlist.md)
+  - [Manage Account Users](/account_distributor/manage_users.md)
+  - [Accounts Management](/account_distributor/manage_accounts.md)
 
 - Account Admin
   - [Devices](/account_admin/devices.md)
@@ -21,4 +28,5 @@
   - [English](/)
   - [Japanese](/jp/)
   - [한국어](/kr/)
+  - [Korean](/kr/)
 

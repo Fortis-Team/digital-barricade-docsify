@@ -1,75 +1,74 @@
-<small><b>Account Admin</b> / Devices</small>
+<small><b>계정 관리자</b> / 기기</small>
 
 <br />
-<h1>Device Configuration</h1>
+<h1>장치 구성</h1>
 <div class="description">
     <img class="center" src="/images/image27.png" alt="device_config"  width="100%" height="600">
     <p>
-        In the left side panel if the Devices was selected the Admin will see this screen. This where the Admin will be able to read the registered devices, edit certain configurations of the devices, and unregister a device.
+        장치가 선택된 경우 왼쪽 패널에서 관리자에게 이 화면이 표시됩니다. 여기에서 관리자는 등록된 장치를 읽고, 장치의 특정 구성을 편집하고, 장치 등록을 취소할 수 있습니다.
     </p>
     <img class="center" src="/images/image21.png" alt="device_config"  width="90%" height="500">
     <p> 
-        By clicking the 3 dots on the device that the Admin wants to configure three options will appear.
+       관리자가 구성하려는 장치에서 세 개의 점을 클릭하면 세 가지 옵션이 나타납니다.
     </p>
 </div>
 
 <br />
-<h1>Edit Device</h1>
+<h1>장치 편집</h1>
 <div class="description">
     <img src="/images/image81.png" alt="edit_device_config"  width="40%" height="700">
     <img src="/images/image31.png" alt="edit_device_config"  width="40%" height="700">
     <p> 
-        By choosing the Edit option the Admin will be taken to this modal window where they will be able to read information about the device in addition to that they will also be able to change the device’s Name, Timzone and assign a Playlist to the device.
+        편집 옵션을 선택하면 관리자는 장치에 대한 정보를 읽을 수 있을 뿐만 아니라 장치의 이름, Timzone을 변경하고 장치에 재생 목록을 할당할 수 있는 이 모달 창으로 이동합니다.
     </p>
 </div>
 
 <br />
-<h1>Changing Device Name</h1>
+<h1>장치 이름 변경</h1>
 <div class="description">
     <img src="/images/image201.png" alt="change_device_config"  width="40%" height="700">
     <img src="/images/image202.png" alt="change_device_config"  width="40%" height="700">
     <p> 
-        To change the device’s name the Admin will be able to do this by going to the text box under Name. After changing the name they can save it by pressing Enter or clicking Save Changes.
+        장치 이름을 변경하려면 관리자가 이름 아래의 텍스트 상자로 이동하여 이 작업을 수행할 수 있습니다. 이름을 변경한 후 Enter 키를 누르거나 변경 사항 저장을 클릭하여 저장할 수 있습니다.
     </p>
 </div>
 
 <br />
-<h1>Changing Device Time Zone</h1>
+<h1>장치 시간대 변경</h1>
 <div class="description">
     <img src="/images/image203.png" alt="change_device_timezone"  width="40%" height="700">
     <img src="/images/image204.png" alt="change_device_timezone"  width="40%" height="700">
     <p> 
-        To change the Device’s time zone the Admin will be able to do this by going to the drop down menu under Timezone. They can either search the timezone they want or look for it in the drown down menu. To save it press Enter or click Save Changes.  
+        장치의 시간대를 변경하려면 관리자가 시간대 아래의 드롭다운 메뉴로 이동하여 이를 수행할 수 있습니다. 원하는 시간대를 검색하거나 드로우 다운 메뉴에서 찾을 수 있습니다. 저장하려면 Enter 키를 누르거나 변경 사항 저장을 클릭하십시오.
     </p>
 </div>
 
 <br />
-<h1>Assigning or Changing the Device’s Playlist</h1>
+<h1>장치의 재생 목록 할당 또는 변경</h1>
 <div class="description">
     <img src="/images/image205.png" alt="change_device_timezone"  width="40%" height="700">
     <img src="/images/image206.png" alt="change_device_timezone"  width="40%" height="700">
     <p>        
-        To change or assign a playlist to a device the Admin will be able to do this by going to the drop down menu under Current Playlist then the playlist created by the Admin and Users will be listed, after the Admin has selected the desired playlist a preview will be shown. To save the playlist and play it on the Device press Enter or click Save Changes.
+        장치에 재생 목록을 변경하거나 할당하기 위해 관리자는 현재 재생 목록 아래의 드롭다운 메뉴로 이동하여 이를 수행할 수 있습니다. 그러면 관리자와 사용자가 만든 재생 목록이 나열되고 관리자가 원하는 재생 목록을 선택한 후 미리 보기가 표시됩니다. 재생 목록을 저장하고 장치에서 재생하려면 Enter 키를 누르거나 변경 사항 저장을 클릭하십시오.
     </p>
 </div>
 
 <br />
-<h1>Unregister a Device</h1>
+<h1>장치 등록 취소</h1>
 <div class="description">
     <img src="/images/image207.png" alt="change_device_timezone"  width="30%" height="500">
     <img src="/images/image208.png" alt="change_device_timezone"  width="37%" height="500">
     <p>        
-        Under the Edit option, the Admin can unregister a device that will result in the device losing its license. To do this, select the Unregister option which will then open a modal window to confirm the un-registration click the Continue unregister button.
+        편집 옵션에서 관리자는 장치의 등록을 취소하여 장치의 라이선스를 잃을 수 있습니다. 이렇게 하려면 등록 취소 옵션을 선택한 다음 등록 취소 계속 버튼을 클릭하여 등록 취소를 확인하는 모달 창을 엽니다.
     </p>
 </div>
 
 <br />
-<h1>Reboot a Device</h1>
+<h1>재부팅 장치</h1>
 <div class="description">
-    <img src="/images/image207.png" alt="change_device_timezone"  width="30%" height="500">
-    <img src="/images/image208.png" alt="change_device_timezone"  width="37%" height="500">
+    <img src="/images/image9.png" alt="change_device_timezone"  width="100%" height="500">
     <p>        
-        Under the Unregister option, the Admin can reboot a device that will result in the device restarting. To do this, select the Reboot option which will then open a modal window to confirm the reboot command click the Confirm button.
+        등록 취소 옵션에서 관리자는 장치를 재부팅하여 장치를 다시 시작할 수 있습니다. 이렇게 하려면 재부팅 옵션을 선택한 다음 재부팅 명령을 확인하는 모달 창을 열고 확인 버튼을 클릭합니다.
     </p>
 </div>
 

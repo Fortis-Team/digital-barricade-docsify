@@ -12,7 +12,6 @@
 </details>
 
 - **<details><summary>アカウント管理者</summary>**
-
   - [デバイス](/jp/distributor_jp/devices_dist_jp.md)
   - [グループ](/jp/distributor_jp/groups_dist_jp.md)
   - [メディアライブラリー](/jp/distributor_jp/media_library_dist_jp.md)
@@ -37,7 +36,4 @@
   - [韓国語" (かんこくご -](/kr/)
 
 </details>
-
-
-
 
