@@ -19,8 +19,4 @@
   - [Groups](/account_user/groups.md)
   - [Media Library](/account_user/media_library.md)
   - [Playlist](/account_user/playlist.md)
-
-- Languages
-  - [English](/)
-  - [Japanese](/jp/)
-  - [Korean](/kr/)
+  - [집](/)
