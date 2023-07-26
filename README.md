@@ -7,9 +7,9 @@
 > Retractable sheet type Full color LED Display Unlimited way to express in a very thin display freely using video, image, and text Digital LED Barricade. Instant digital media solution. Enhanced crowd control options.
 
 ## Features
- * one
- * two
- * three
+ * Simple content management
+ * Scheduled and duration based playlists
+ * Cloud-based device management
 
 ## Distributor
 
