@@ -1,9 +1,15 @@
 # Digital Barricade
 
+Cloud based software for simple content management. 
+
 # What it is
 
-# Features
+Retractable sheet type Full color LED Display Unlimited way to express in a very thin display freely using video, image, and text Digital LED Barricade. Instant digital media solution. Enhanced crowd control options.
 
+# Features
+* one
+* two
+* three
 
 # User and Admin Management
 
