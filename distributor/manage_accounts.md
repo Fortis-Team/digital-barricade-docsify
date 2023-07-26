@@ -1,6 +1,7 @@
 <small><b>Distributor</b> / Manage Accounts</small>
 
-<br />
+!> Only the **Distributor** has access to the **Manage Accounts** tab in the Digital Barricade Website.
+
 <h1>Accounts management</h1>
 <div class="description">
     <p>
