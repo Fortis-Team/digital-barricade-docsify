@@ -12,16 +12,21 @@
      <p>
         1 device is limited to 1 license. This ensures that each device must have its license to access and utilize the software.
     </p>
-    <img src="/images/image530.png" alt="sample"  width="100%" height="600">
+    <img src="/images/distributor/manageAccounts/manageAccountsTab.png" alt="sample"  width="100%" height="500">
 </div>
 
 <br />
+<h1>Add Account</h1>
 <div class="description">
     <p>
-        By clicking the add account button, the distributor will then need to fill out the input fields to create a new account.
+        The distributor may set up a new account by configuring a modal that appears when they click the add account button.
     </p>
-    <img src="/images/image531.png" alt="sample"  width="40%" height="600">
-    <img src="/images/image532.png" alt="sample"  width="40%" height="600">
+    <img src="/images/distributor/manageAccounts/manageAccountsAdd.png" alt="sample"  width="100%" height="500">
+    <p>
+        The distributor will then need to fill out the input fields to create a new account.
+    </p>
+    <img src="/images/distributor/manageAccounts/manageAccountsAddModal.png" alt="sample"  width="100%" height="500">
+    <img src="/images/distributor/manageAccounts/manageAccountsAddModal2.png" alt="sample"  width="100%" height="500">
 </div>
 
 <br />
@@ -30,8 +35,8 @@
     <p>
         The distributor can update the information of each account by clicking the edit account under the dropdown menu.
     </p>
-    <img src="/images/image533.png" alt="sample"  width="100%" height="600">
-    <img src="/images/image534.png" alt="sample"  width="40%" height="600">
-    <img src="/images/image535.png" alt="sample"  width="40%" height="600">
+    <img src="/images/distributor/manageAccounts/manageAccountsEdit.png" alt="sample"  width="100%" height="500">
+    <img src="/images/distributor/manageAccounts/manageAccountsEditModal.png" alt="sample"  width="100%" height="500">
+    <img src="/images/distributor/manageAccounts/manageAccountsEditModal2.png" alt="sample"  width="100%" height="500">
 </div>
 

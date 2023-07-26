@@ -1,10 +1,10 @@
 <!-- - [Home](/) -->
 
 - Distributor
-  - [Devices](/distributor/devices.md)
+  <!-- - [Devices](/distributor/devices.md)
   - [Groups](/distributor/groups.md)
   - [Media Library](/distributor/media_library.md)
-  - [Playlist](/distributor/playlist.md)
+  - [Playlist](/distributor/playlist.md) -->
   - [Manage Users](/distributor/manage_users.md)
   - [Manage Accounts](/distributor/manage_accounts.md)
 
