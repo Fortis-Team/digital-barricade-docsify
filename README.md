@@ -1,3 +1,10 @@
+# Digital Barricade
+
+# What it is
+
+# Features
+
+
 # User and Admin Management
 
 An Admin account will be able invite another or a user under this account that was given by the Distributor account.
