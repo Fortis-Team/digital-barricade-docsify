@@ -7,10 +7,17 @@
 > Retractable sheet type Full color LED Display Unlimited way to express in a very thin display freely using video, image, and text Digital LED Barricade. Instant digital media solution. Enhanced crowd control options.
 
 ## Features
- * Simple content management
- * Scheduled and duration based playlists
- * Cloud-based device management
 
+ * This innovative display is run by cloud-based software, which simplifies content administration and offers an immediate digital media solution for every situation.
+
+ * Digital Barricade allows users to effortlessly switch between videos, images, and text, providing boundless opportunities for creative expression and effective communication.
+
+ * With the power of the cloud, users can remotely manage and update content in real-time, eliminating the need for on-site personnel to make manual changes. 
+
+ * Seamless Integration and User-Friendly Interface. The software offers a seamless integration process, ensuring a smooth transition for businesses of all sizes.
+
+ * This cloud-based approach ensures that businesses can respond swiftly to changing circumstances and keep their content up to date, providing a competitive edge in today's fast-paced world.
+ 
 ## Distributor
 
 > The distributor will be the one who distributes the license to the customers/clients. They will choose how many licenses each account is allowed to utilize. Under the "Manage Accounts" tab of the panel, the distributor can view the newly added accounts, including the demo account with the list of registered devices. The name of each account, the number of active licenses, and the associated default email address are all displayed in this section.

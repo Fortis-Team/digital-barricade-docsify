@@ -12,42 +12,54 @@
     <p>
        Except for the distributor account, all other accounts can be managed by the admin account, which means it can change the roles of other accounts and reset their passwords.
     </p>
-    <img src="/images/image525.png" alt="account_users"  width="100%" height="600">
+    <img src="/images/distributor/manageUsers/manageUsers.png" alt="account_users"  width="100%" height="500">
 </div>
 
 <br />
-<h1>Invite new user</h1>
+<h1>Invite New User</h1>
 <div class="description">
     <p>
-       The admin account can add a new user by clicking the invite user button at the account user interface. A modal will then appear, requiring the distributor to provide their name, and email address, and select their role to either user or admin. The newly invited user account can navigate through the digital barricade website limited to their given role.
+       The distributor can add a new user by clicking the invite user button at the account user interface. A modal will then appear, requiring the distributor to provide their name, and email address, and select their role to either user or admin. The newly invited user account can navigate through the digital barricade website limited to their given role.
     </p>
-    <img src="/images/image526.png" alt="invite_new_user"  width="50%" height="600">
+    <img src="/images/distributor/manageUsers/manageUsersAdd.png" alt="invite_new_user"  width="100%" height="500">
 </div>
 
 <br />
-<h1>Edit user account</h1>
+<h1>Edit User Account</h1>
 <div class="description">
     <p>
        The account administrator can manage accounts, including updating, deleting, and resetting the passwords of user/customer and admin accounts.
     </p>
-    <img src="/images/image527.png" alt="edit_user"  width="100%" height="600">
+    <img src="/images/distributor/manageUsers/manageUsersEdit.png" alt="edit_user"  width="100%" height="500">
 </div>
 <div class="description">
     <p>     
        The distributor can rename the selected user account and update their role from admin to user and vice versa.
     </p>
-    <img src="/images/image528.png" alt="edit_user"  width="400" height="600">
+    <img src="/images/distributor/manageUsers/manageUsersEditModal.png" alt="edit_user"  width="100%" height="500">
 </div>
 
 <br />
-<h1>Delete user account</h1>
+<h1>Delete User Account</h1>
 <div class="description">
-    <img src="/images/image527.png" alt="edit_user"  width="100%" height="600">
+    <img src="/images/distributor/manageUsers/manageUsersDelete.png" alt="edit_user"  width="100%" height="500">
 </div>
 <div class="description">
     <p>     
        The distributor can delete the selected user account when the modal appears after clicking the delete option on the dropdown menu.
     </p>
-    <img src="/images/disDeleteAcc.png" alt="edit_user"  width="100%" height="600">
+    <img src="/images/distributor/manageUsers/manageUsersDeleteModal.png" alt="edit_user"  width="100%" height="500">
+</div>
+
+<br />
+<h1>Reset Password</h1>
+<div class="description">
+    <img src="/images/distributor/manageUsers/manageUsersReset.png" alt="edit_user"  width="100%" height="500">
+</div>
+<div class="description">
+    <p>     
+       The distributor can reset the selected account's password. The reset password message will be sent to the account's email.
+    </p>
+    <img src="/images/distributor/manageUsers/manageUsersResetModal.png" alt="edit_user"  width="100%" height="500">
 </div>
 

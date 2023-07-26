@@ -6,7 +6,7 @@
     <p>
        The Digital Barricade Website has a panel on its left side, allowing the distributor to select and configure various tabs for each registered device. One of these essential tabs is the "Devices" tab, which displays the list of all registered devices. Within the devices interface, the distributor has the authority to perform several actions, such as editing device settings, unregistering devices, and initiating reboots when needed. 
     </p>
-    <img src="/images/devicesTab.png" alt="device_list"  width="100%" height="600">
+    <img src="/images/distributor/devices/devicesTab.png" alt="device_list"  width="100%" height="500">
 </div>
 
 <br />
@@ -15,19 +15,19 @@
     <p>
         When the modal appears after clicking the edit on the dropdown menu, the distributor can set the current playlist that will be played, he/she can also choose the playback schedule for a specific timezone for the playlist, rename the device, and view additional important details about the device. To edit a device, the distributor must click the edit option in the dropdown menu.
     </p>
-    <img src="/images/image501.png" alt="device_list"  width="100%" height="600">
+    <img src="/images/distributor/devices/devicesEditTab.png" alt="device_list"  width="100%" height="500">
     <p>
         Once the distributor clicks on edit in the dropdown menu, a modal will appear, presenting various options to configure the device. Among these options, the distributor can select the current playlist that will be played. They can also customize the playback schedule according to specific timezones across different regions.
     </p>
-    <img src="/images/image81.png" alt="edit_device"  width="40%" height="600">
+    <img src="/images/distributor/devices/devicesEditModal.png" alt="edit_device"  width="40%" height="500">
 <br/>
-    <img src="/images/image502.png" alt="edit_device"  width="40%" height="400">
-    <img src="/images/image503.png" alt="edit_device"  width="40%" height="400">
+    <img src="/images/distributor/devices/devicesTimeZone.png" alt="edit_device"  width="40%" height="400">
+    <img src="/images/distributor/devices/devicesPlaylist.png" alt="edit_device"  width="40%" height="400">
     <p>
         In addition to the mentioned functionalities, the distributor also has the capability to rename the device and access crucial information pertaining to it. This feature allows the distributor to assign unique and recognizable names to different devices registered in the website.
     </p>
-    <img src="/images/renameDevice.png" alt="edit_device"  width="40%" height="400">
-    <img src="/images/deviceInfo.png" alt="edit_device"  width="40%" height="400">
+    <img src="/images/distributor/devices/devicesRename.png" alt="edit_device"  width="40%" height="400">
+    <img src="/images/distributor/devices/deviceInfo.png" alt="edit_device"  width="40%" height="400">
 </div>
 
 <br />
@@ -42,7 +42,7 @@
     <p>
         Using the same or another account, the device can be re-registered in the cloud <strong>(Digital Barricade Website)</strong> through the phone app.
     </p>
-    <img src="/images/image506.png" alt="unreg_device"  width="100%" height="600">
+    <img src="/images/distributor/devices/devicesUnregister.png" alt="unreg_device"  width="100%" height="500">
 </div>
 
 <br />
@@ -51,5 +51,5 @@
     <p>
         Upon clicking the reboot option in the dropdown menu, the device will undergo a restart and will temporarily be inaccessible for a few seconds. Once the reboot is complete, wait for the device to indicate its online status.
     </p>
-    <img src="/images/image507.png" alt="reboot_device"  width="100%" height="600">
+    <img src="/images/distributor/devices/devicesReboot.png" alt="reboot_device"  width="100%" height="500">
 </div>
