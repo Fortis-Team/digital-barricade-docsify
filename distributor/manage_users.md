@@ -28,7 +28,7 @@
 <h1>Edit user account</h1>
 <div class="description">
     <p>
-       The account administrator has the ability to manage accounts, including updating, deleting, and resetting the passwords of user/customer and admin accounts.
+       The account administrator can manage accounts, including updating, deleting, and resetting the passwords of user/customer and admin accounts.
     </p>
     <img src="/images/image527.png" alt="edit_user"  width="100%" height="600">
 </div>

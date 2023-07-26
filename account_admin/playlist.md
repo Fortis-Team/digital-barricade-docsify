@@ -17,7 +17,7 @@
     </p>
     <img src="/images/image402.png" alt="create_playlist" width="90%" height="500">
     <p>
-        The Admin can either choose a Duration-based or Schedule/Time-Based playlist and click on Add an Item 
+        The Admin can either choose a Duration-based or Schedule/Time-Based playlist and click on Add an Item. 
     </p>
     <img src="/images/image403.png" alt="create_playlist" width="70%" height="500">
 </div>
@@ -38,9 +38,9 @@
 <div class="description">
     <img src="/images/image406.png" alt="duration" width="90%" height="550">
     <p>       
-        If the Admin chose the Schedule/Time Based option this modal window will appear where they will be able to choose the Language, Text to be displayed, Font Size, Font Style, Font Color and for the Schedule/Time Based the days and the specific start and end time of the item will play.
+        If the Admin chose the Schedule/Time-Based option this modal window will appear where they will be able to choose the Language, Text to be displayed, Font Size, Font Style, Font Color and for the Schedule/Time-Based the days and the specific start and end time of the item will play.
     <br />
-        If the Admin wants to see the changes they made they have to press the Generate Preview button to see the preview of the changes they made and to add the item to the playlist they need to press the Add Item to list button.
+        If the Admin wants to see the changes they made they have to press the Generate Preview button to see the preview of the changes they made and to add the item to the playlist they need to press the Add Item to List button.
     </p>
     <img src="/images/image407.png" alt="duration" width="90%" height="550">
     <p>    
@@ -54,7 +54,7 @@
     <img src="/images/image408.png" alt="duration" width="40%" height="550">
     <img src="/images/image409.png" alt="duration" width="50%" height="550">
     <p>  
-        By choosing the Edit option the Admin will be taken to this modal window where they will be able to change the playlist’s name, display size, playing mode and edit individual items like change the time for time based playlist or change the duration for duration based playlist.
+        By choosing the Edit option the Admin will be taken to this modal window where they will be able to change the playlist’s name, display size, and playing mode and edit individual items like changing the time for time-based playlist or changing the duration for duration-based playlist.
     <br />  
         To save the changes made to the playlist, click the Save Changes button this will result in whichever device has this playlist will update its content automatically.
     </p>
