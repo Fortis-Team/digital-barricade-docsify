@@ -1,11 +1,15 @@
-# Digital Barricade
+# Welcome to Digital Barricade Documentation - Cloud App
 
-# What it is
+> Cloud based software for simple content management. 
 
-# Features
+## What it is
 
+> Retractable sheet type Full color LED Display Unlimited way to express in a very thin display freely using video, image, and text Digital LED Barricade. Instant digital media solution. Enhanced crowd control options.
 
-# User and Admin Management
+## Features
+ * one
+ * two
+ * three
 
 ## Distributor
 

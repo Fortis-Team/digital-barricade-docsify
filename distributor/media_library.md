@@ -12,6 +12,7 @@
 <h1> Adding Media </h1>
 <div class="description">
     <p>     
+        The distributor can upload new media by clicking on the add media button and providing the desired name and media type (picture or video).
         To upload a new media, simply click the add media button.
     </p>
     <img src="/images/image512.png" alt="add_media_assets" width="100%" height="600">

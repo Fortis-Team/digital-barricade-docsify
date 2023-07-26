@@ -4,7 +4,7 @@
 <h1>Device Group Configuration</h1>
 <div class="description">
     <p>
-          The distributor can view the created groups under the groups tab of the panel. Each group shows the playlist that is being played across various devices. The distributor has the ability to manage and update the playlists across all devices in a specific group, providing seamless control over the content being played.
+        Under the Groups tab in the panel, the distributor can view which playlist is being played on multiple devices. The distributor can manage and update the playlists across all devices in a specific group, providing seamless control over the content being played.The distributor can view the created groups under the groups tab of the panel. Each group shows the playlist that is being played across various devices. The distributor has the ability to manage and update the playlists across all devices in a specific group, providing seamless control over the content being played.
     </p>
     <img src="/images/groupsTab.png" alt="group_create_playlist" width="100%" height="600">
 </div>
