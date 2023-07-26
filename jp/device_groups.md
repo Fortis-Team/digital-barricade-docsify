@@ -1,4 +1,4 @@
-<small><b>Account User</b> / Groups</small>
+<small>Device Groups</small>
 
 <br />
 <h1>デバイスプレイリストのためのグループを作成中です。</h1>

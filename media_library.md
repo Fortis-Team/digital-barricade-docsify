@@ -1,4 +1,4 @@
-<small><b>Account User</b> / Media Library</small>
+<small>Media Library</small>
 
 <br />
 <h1>Media Management</h1>
@@ -42,4 +42,3 @@
         Under the Edit option, the User can delete a custom media. To do this, select the Delete option which will then open a modal window to confirm the deletion of the media click the Continue delete button.
     </p>
 </div>
-

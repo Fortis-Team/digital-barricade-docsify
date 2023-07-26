@@ -1,4 +1,4 @@
-<small><b>Account User</b> / Playlist</small>
+<small>Playlist</small>
 
 <br />
 <h1>Playlist Management</h1>
@@ -44,13 +44,13 @@
 <h1>Schedule/Time Based</h1>
 <div class="description">
     <img src="/images/image406.png" alt="duration" width="100%" height="600">
-    <p>       
+    <p>
         If the user chose the Schedule/Time-Based option this modal window will appear where they will be able to choose the Language, Text to be displayed, Font Size, Font Style, Font Color and for the Schedule/Time-Based days and the specific start and end time of the item will play.
     <br />
         If the user wants to see the changes they made they have to press the Generate Preview button to see the preview of the changes they made and to add the item to the playlist they need to press the Add Item to List button.
     </p>
     <img src="/images/image407.png" alt="duration" width="100%" height="600">
-    <p>    
+    <p>
         Then, add/save the newly created playlist once the User is satisfied with their modifications. Click the Save button.
     </p>
 </div>
@@ -60,9 +60,9 @@
 <div class="description">
     <img src="/images/image408.png" alt="duration" width="100%" height="600">
     <img src="/images/image409.png" alt="duration" width="100%" height="600">
-    <p>  
+    <p>
         By choosing the Edit option the User will be taken to this modal window where they will be able to change the playlist’s name, display size, and playing mode and edit individual items like changing the time for time-based playlist or changing the duration for duration-based playlist.
-    <br />  
+    <br />
         To save the changes made to the playlist, click the Save Changes button this will result in whichever device has this playlist will update its content automatically.
     </p>
 </div>
