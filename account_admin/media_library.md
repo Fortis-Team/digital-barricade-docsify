@@ -4,7 +4,7 @@
 <h1>Media Management</h1>
 <div class="description">
     <p>
-        To create a group, click the Add Media button as pointed out in the picture.
+        The Admin can access the uploaded media, which comprises both images and videos, through the media library tab in the panel. The media that has been uploaded is utilized for creating a new playlist.
     </p>
     <img src="/images/image311.png" alt="uploaded_media_assets" width="100%" height="600">
 </div>
@@ -13,7 +13,7 @@
 <h1>Adding media</h1>
 <div class="description">
     <p>
-        To create a group, click the Add Group button as pointed out in the picture.
+        To add a media, click the Add Media button as pointed out in the picture.
     </p>
     <img src="/images/image312.png" alt="add_media_assets" width="100%" height="600">
      <p>
@@ -23,7 +23,7 @@
 </div>
 
 <br />
-<h1>Edit media</h1>
+<h1>Edit uploaded media asset</h1>
 <div class="description">
     <img src="/images/image314.png" alt="add_media_assets" width="33%" height="400">
     <img src="/images/image315.png" alt="add_media_assets" width="35%" height="500">

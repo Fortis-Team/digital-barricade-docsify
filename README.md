@@ -1,4 +1,11 @@
-# Welcome to Digital Barricade Documentation
+# Digital Barricade
+
+# What it is
+
+# Features
+
+
+# User and Admin Management
 
 ## Distributor
 

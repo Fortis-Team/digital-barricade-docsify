@@ -27,7 +27,7 @@
 <h1>Edit group</h1>
 <div class="description">
     <p>
-        The distributor can modify a group by clicking on edit from the dropdown menu for the particular group they've selected. 
+        The distributor can modify a group by clicking on edit from the dropdown menu for the particular group they've selected. The distributor may now alter the name of the chosen group, and the playlist, and add more or remove devices that will play the selected playlist.
     </p>
     <img src="/images/image510.png" alt="edit_device_group" width="100%" height="600">
     <p>

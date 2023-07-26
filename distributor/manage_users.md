@@ -4,7 +4,7 @@
 <h1>Account Users Management</h1>
 <div class="description">
     <p>
-       In the manage users tab of the panel, the distributor can monitor each account user. Here, the distributor can view the name, email, specific roles, and status of each individual account user.
+       In the manage users tab of the panel, the distributor can monitor each account user. Here, the distributor can view the name, email, specific roles, and status of each account user.
     </p>
     <p>
        The admin account and the user/customer accounts are slightly different. Account sharing is not accessible to the user/customer account, but it is to the admin account thus it can check which accounts have been shared. Only the devices, groups, media library, and playlist are accessible via the user/customer account.
@@ -19,7 +19,7 @@
 <h1>Invite new user</h1>
 <div class="description">
     <p>
-       The admin account can add a new user by clicking the invite user button at the account users interface. A modal will then appear, requiring the distributor to provide their name, email address, and select their role to either user or admin. The newly invited user account can navigate through the digital barricade website limited on their given role.
+       The admin account can add a new user by clicking the invite user button at the account user interface. A modal will then appear, requiring the distributor to provide their name, and email address, and select their role to either user or admin. The newly invited user account can navigate through the digital barricade website limited to their given role.
     </p>
     <img src="/images/image526.png" alt="invite_new_user"  width="50%" height="600">
 </div>
@@ -28,7 +28,7 @@
 <h1>Edit user account</h1>
 <div class="description">
     <p>
-       The account administrator has the ability to manage accounts, including updating, deleting, and resetting the passwords of user/customer and admin accounts.
+       The account administrator can manage accounts, including updating, deleting, and resetting the passwords of user/customer and admin accounts.
     </p>
     <img src="/images/image527.png" alt="edit_user"  width="100%" height="600">
 </div>
