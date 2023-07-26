@@ -21,7 +21,7 @@
   - [Media Library](/account_user/media_library.md)
   - [Playlist](/account_user/playlist.md)
 
-- Languages
+<!-- - Languages
   - [English](/)
   - [Japanese](/jp/)
-  - [Korean](/kr/)
+  - [Korean](/kr/) -->
