@@ -4,49 +4,42 @@
 <h1>Device Group Configuration</h1>
 <div class="description">
     <p>
-        In the left side panel if Groups was selected the User will see this screen. This is where the User will be able to create a group, set a playlist for a group, add a device to a group and delete a group. In the panel's groups tab, the user can see which playlist is currently playing on several devices. They are also capable of managing and making changes to the playlists on all devices within a particular group, allowing for smooth control over the content being played.
+        Under the Groups tab in the panel, the user can view which playlist is being played on multiple devices. The user can manage and update the playlists across all devices in a specific group, providing seamless control over the content being played.The user can view the created groups under the groups tab of the panel. Each group shows the playlist that is being played across various devices. The user has the ability to manage and update the playlists across all devices in a specific group, providing seamless control over the content being played.
     </p>
-    <img class="center" src="/images/image0501.png" alt="device_config"  width="100%" height="600">
+    <img src="/images/groups/groupsTab.png" alt="group_create_playlist" width="100%" height="500">
 </div>
 
-<h1>Create a Group</h1>
+<br/>
+<h1> Create a Group </h1>
 <div class="description">
-    <p> 
-        To create a group, click the Add Group button as pointed out in the picture. 
+    <p>
+       To create a new group, simply click the Add Group button in the device groups' interface. 
     </p>
-    <img src="/images/image302.png" alt="create_device_config"  width="85%" height="400">
-   <p> 
-        A modal window will appear where the User can name the group, set a playlist for the group and add devices to the group. Devices in the same group will receive the playlist that was set in that group. When establishing a new playlist group, the user is required to set the group's name, select which playlist that will be used, and finally, select the devices that will play the chosen playlist.
+    <img src="/images/groups/groupsAdd.png" alt="create_device_config"  width="100%" height="500">
+<br/>
+    <p>
+        When creating a new group, the user must set the name of the group, select which playlist will be playing, and lastly select which devices will play the selected playlist.
     </p>
-    <img src="/images/304.png" alt="add_device_config"  width="400" height="400">
-    <p> 
-        To add device/s to the group go to the drop-down menu under Devices, all of the devices that have been registered to the account that the User is using will be listed in the drop-down menu click the device to be added and to remove it from the group click the “x” beside the device name.
-    <br />
-        Once the User has added all the devices they want in the group click the Save button to save the newly created group.
-    </p>
-    <img src="/images/image305.png" alt="create_device_config"  width="400" height="400">
-  
+    <img src="/images/groups/groupsAddModal.png" alt="add_new_group" width="100%" height="500">
 </div>
 
 <br />
-<h1>Edit a Group</h1>
+<h1>Edit group</h1>
 <div class="description">
-    <img src="/images/image308.png" alt="edit_device_config"  width="33%" height="400">
-    <img src="/images/image7.png" alt="edit_device_config"  width="50%" height="400">
-    <p> 
-        The user can make changes to a group by selecting the edit option from the dropdown menu associated with that specific group. They can then proceed to modify the name of the group, and the playlist assigned to it, and manage the devices that will be used to play the chosen playlist. This grants the user the flexibility to customize the group settings according to their preferences.
-    <br />
-       By choosing the Edit option the User will be taken to this modal window where they will be able to edit the configuration of the chosen existing group, they will be able to change the group name, change the group’s playlist, and add/remove devices to the group.
-    <br />
-        To save the changes made to the group, click the Save Changes button.
+    <p>
+        The user can modify a group by clicking on edit from the dropdown menu for the particular group they've selected. The user may now alter the name of the chosen group, and the playlist, and add more or remove devices that will play the selected playlist.
     </p>
+    <img src="/images/groups/groupsEdit.png" alt="edit_device_group" width="100%" height="500">
+    <p>
+       When the modal appears, the user can now update the name of the chosen group, select new playlist, and add more or remove devices that will play the selected playlist.
+    </p>
+    <img src="/images/groups/groupsEditModal.png" alt="edit_device_group" width="100%" height="500">
 </div>
 
-<br />
-<h1>Delete a Group</h1>
+<h1>Delete group</h1>
 <div class="description">
-    <img src="/images/image310.png" alt="edit_device_config"  width="33%" height="400">
-    <p> 
-       Under the Edit option, like the User, the User can delete a group. To do this, select the Delete option which will then open a modal window to confirm the deletion of the group click the Continue delete button.
+    <p>
+       Under the edit option, the user can delete a group. To do this, select the delete option from the dropdown, which will then open a modal window to confirm the deletion of the group.
     </p>
+    <img src="/images/groups/groupsDelete.png" alt="edit_device_group" width="100%" height="500">
 </div>

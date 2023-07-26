@@ -1,67 +1,45 @@
 <small><b>Account User</b> / Devices</small>
 
+!> Only the **Distributor** & **Admin** has the authority to unregister a device.
 <br />
 <h1>Device Configuration</h1>
 <div class="description">
-<img src="./images/image13.png" alt="list_of_devices"  width="100%" height="600">
     <p>
-        The panel on the left side of the window allows the user to manipulate the content from different tabs for each registered device. Under the devices tab, which lists all of the registered devices, the user may see each device individually along with their important details.
+       The Digital Barricade Website has a panel on its left side, allowing the user to select and configure various tabs for each registered device. One of these essential tabs is the "Devices" tab, which displays the list of all registered devices. Within the devices interface, the user has the authority to perform several actions, such as editing device settings, unregistering devices, and initiating reboots when needed. 
     </p>
-    <img class="center" src="/images/image21.png" alt="device_config"  width="90%" height="500">
-    <p> 
-        By clicking the 3 dots on the device that the User wants to configure three options will appear.
-    </p>
+    <img src="/images/devices/devicesTab.png" alt="device_list"  width="100%" height="500">
 </div>
 
 <br />
-<h1>Edit Device</h1>
+<h1>Edit device</h1>
 <div class="description">
-    <img class="center" src="/images/image1.png" alt="timezone"  width="30%" height="500">
-    <img src="/images/image2.png" alt="playlist"  width="30%" height="500">
-    <img src="/images/image3.png" alt="status"  width="30%" height="600">
-    <p> 
-        By choosing the Edit option the User will be taken to this modal window where like the User, they will be able to read information about the device in addition to that they will also be able to change the device’s Name, and timezone and assign a Playlist to the device.
+    <p>
+        When the modal appears after clicking the edit on the dropdown menu, the user can set the current playlist that will be played, he/she can also choose the playback schedule for a specific timezone for the playlist, rename the device, and view additional important details about the device. To edit a device, the user must click the edit option in the dropdown menu.
     </p>
-</div>
-<br />
-
-<br />
-<h2>Changing Device Name</h2>
-<div class="description">
-    <img src="/images/image201.png" alt="change_device_config"  width="40%" height="700">
-    <img src="/images/image202.png" alt="change_device_config"  width="40%" height="700">
-    <p> 
-        To change the device’s name the User will be able to do this by going to the text box under Name. After changing the name they can save it by pressing Enter or clicking Save Changes.
+    <img src="/images/devices/devicesEditTab.png" alt="device_list"  width="100%" height="500">
+    <p>
+        Once the user clicks on edit in the dropdown menu, a modal will appear, presenting various options to configure the device. Among these options, the user can select the current playlist that will be played. They can also customize the playback schedule according to specific timezones across different regions.
     </p>
-</div>
-
-<br />
-<h2>Changing Device Time Zone</h2>
-<div class="description">
-    <img src="/images/image203.png" alt="change_device_timezone"  width="40%" height="700">
-    <img src="/images/image204.png" alt="change_device_timezone"  width="40%" height="700">
-    <p> 
-        To change the Device’s time zone the User will be able to do this by going to the drop-down menu under Timezone. They can either search the timezone they want or look for it in the drown-down menu. To save it press Enter or click Save Changes.  
+    <img src="/images/devices/devicesEditModal.png" alt="edit_device"  width="100%" height="500">
+<br/>
+    <img src="/images/devices/devicesTimeZone.png" alt="edit_device"  width="40%" height="400">
+    <img src="/images/devices/devicesPlaylist.png" alt="edit_device"  width="40%" height="400">
+    <p>
+        In addition to the mentioned functionalities, the user also has the capability to rename the device and access crucial information pertaining to it. This feature allows the user to assign unique and recognizable names to different devices registered in the website.
     </p>
-</div>
-
-<br />
-<h2>Assigning or Changing the Device’s Playlist</h2>
-<div class="description">
-    <img src="/images/image205.png" alt="change_device_timezone"  width="40%" height="700">
-    <img src="/images/image206.png" alt="change_device_timezone"  width="40%" height="700">
-    <p>        
-        To change or assign a playlist to a device the User will be able to do this by going to the drop-down menu under Current Playlist then the playlist created by the User and Users will be listed, after the User has selected the desired playlist a preview will be shown. To save the playlist and play it on the Device press Enter or click Save Changes.
-    </p>
+    <img src="/images/devices/devicesRename.png" alt="edit_device"  width="100%" height="400">
+    <img src="/images/devices/deviceInfo.png" alt="edit_device"  width="100%" height="400">
 </div>
 
 <br />
 <h1>Reboot a device</h1>
 <div class="description">
     <p>
-        The device will restart after clicking the option to reboot from the dropdown menu, making it inaccessible for a brief period. Wait for the device to show that it is online when the reboot is finished.
+        Upon clicking the reboot option in the dropdown menu, the device will undergo a restart and will temporarily be inaccessible for a few seconds. Once the reboot is complete, wait for the device to indicate its online status.
     </p>
-    <img src="/images/image500.png" alt="reboot"  width="100%" height="600">
+    <img src="/images/devices/devicesReboot.png" alt="reboot_device"  width="100%" height="500">
+    <p>
+        Once the reboot option is clicked, it will display a modal to confirm the reboot process for the device.
+    </p>
+    <img src="/images/devices/devicesRebootModal.png" alt="reboot_device"  width="100%" height="500">
 </div>
-
-
