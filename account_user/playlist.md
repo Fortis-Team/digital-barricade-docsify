@@ -4,7 +4,7 @@
 <h1>Playlist Management</h1>
 <div class="description">
     <p>
-        The playlist manager contains the playlists that are used when creating groups and this is where the uploaded media are utilized. In the left side panel if the Playlists was selected the User will see this screen. This is where the User will be able to view all of the created and available playlists under their account. On this page, the User will be able to create a new playlist, configure existing playlists and delete playlists.
+        The playlist manager contains the playlists that are used when creating groups and this is where the uploaded media are utilized. In the left side panel if the Playlists was selected the User will see this screen. This is where the User will be able to view all of the created and available playlists under their account. On this page, the user will be able to create a new playlist, configure existing playlists and delete playlists.
     </p>
     <img src="/images/image0503.png" alt="playlist_manager" width="100%" height="600">
 </div>
@@ -34,9 +34,9 @@
 <div class="description">
     <img src="/images/image405.png" alt="duration" width="100%" height="600">
     <p>
-        If the User chose the Duration Based option this modal window will appear where they will be able to choose the Language, Text to be displayed, Font Size, Font Style, and Font Color and for the Duration Based the duration of this item will show/play on the device.
+        If the user chose the Duration Based option this modal window will appear where they will be able to choose the Language, Text to be displayed, Font Size, Font Style, and Font Color and for the Duration Based the duration of this item will show/play on the device.
     <br />
-        If the User wants to see the changes they made they have to press the Generate Preview button to see the preview of the changes they made and to add the item to the playlist they need to press the Add Item to List button.
+        If the user wants to see the changes they made they have to press the Generate Preview button to see the preview of the changes they made and to add the item to the playlist they need to press the Add Item to List button.
     </p>
 </div>
 
@@ -45,9 +45,9 @@
 <div class="description">
     <img src="/images/image406.png" alt="duration" width="100%" height="600">
     <p>       
-        If the User chose the Schedule/Time-Based option this modal window will appear where they will be able to choose the Language, Text to be displayed, Font Size, Font Style, Font Color and for the Schedule/Time-Based days and the specific start and end time of the item will play.
+        If the user chose the Schedule/Time-Based option this modal window will appear where they will be able to choose the Language, Text to be displayed, Font Size, Font Style, Font Color and for the Schedule/Time-Based days and the specific start and end time of the item will play.
     <br />
-        If the User wants to see the changes they made they have to press the Generate Preview button to see the preview of the changes they made and to add the item to the playlist they need to press the Add Item to List button.
+        If the user wants to see the changes they made they have to press the Generate Preview button to see the preview of the changes they made and to add the item to the playlist they need to press the Add Item to List button.
     </p>
     <img src="/images/image407.png" alt="duration" width="100%" height="600">
     <p>    
@@ -72,6 +72,6 @@
 <div class="description">
     <img src="/images/image410.png" alt="duration" width="100%" height="600">
     <p>
-         Under the Edit option, the User can delete a playlist. To do this, select the Delete option which will then open a modal window to confirm the deletion of the playlist click the Continue delete button.
+         Under the Edit option, the user can delete a playlist. To do this, select the Delete option which will then open a modal window to confirm the deletion of the playlist click the Continue delete button.
     </p>
 </div>
