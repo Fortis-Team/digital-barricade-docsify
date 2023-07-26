@@ -1,11 +1,12 @@
-<small><b>Account User</b> / Devices</small>
+<small>Devices</small>
 
 !> Only the **Distributor** & **Admin** has the authority to unregister a device.
 <br />
+
 <h1>Device Configuration</h1>
 <div class="description">
     <p>
-       The Digital Barricade Website has a panel on its left side, allowing the user to select and configure various tabs for each registered device. One of these essential tabs is the "Devices" tab, which displays the list of all registered devices. Within the devices interface, the user has the authority to perform several actions, such as editing device settings, unregistering devices, and initiating reboots when needed. 
+       The Digital Barricade Website has a panel on its left side, allowing the user to select and configure various tabs for each registered device. One of these essential tabs is the "Devices" tab, which displays the list of all registered devices. Within the devices interface, the user has the authority to perform several actions, such as editing device settings, unregistering devices, and initiating reboots when needed.
     </p>
     <img src="/images/devices/devicesTab.png" alt="device_list"  width="100%" height="500">
 </div>

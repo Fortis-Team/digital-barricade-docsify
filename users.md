@@ -1,4 +1,4 @@
-<small><b>Distributor</b> / Manage Users</small>
+<small>Users</small>
 
 !> Only the **Distributor** has the authority to delete user and admin accounts.
 
@@ -31,7 +31,7 @@
     <img src="/images/distributor/manageUsers/manageUsersEdit.png" alt="edit_user"  width="100%" height="500">
 </div>
 <div class="description">
-    <p>     
+    <p>
        The distributor and admin can rename the selected user account and update their role from admin to user and vice versa.
     </p>
     <img src="/images/distributor/manageUsers/manageUsersEditModal.png" alt="edit_user"  width="100%" height="500">
@@ -43,7 +43,7 @@
     <img src="/images/distributor/manageUsers/manageUsersDelete.png" alt="edit_user"  width="100%" height="500">
 </div>
 <div class="description">
-    <p>     
+    <p>
        The distributor can delete the selected user account when the modal appears after clicking the delete option on the dropdown menu.
     </p>
     <img src="/images/distributor/manageUsers/manageUsersDeleteModal.png" alt="edit_user"  width="100%" height="500">
@@ -55,9 +55,8 @@
     <img src="/images/distributor/manageUsers/manageUsersReset.png" alt="edit_user"  width="100%" height="500">
 </div>
 <div class="description">
-    <p>     
+    <p>
        The distributor and admin can reset the selected account's password. The reset password message will be sent to the account's email.
     </p>
     <img src="/images/distributor/manageUsers/manageUsersResetModal.png" alt="edit_user"  width="100%" height="500">
 </div>
-

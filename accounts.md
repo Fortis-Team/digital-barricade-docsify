@@ -1,4 +1,4 @@
-<small><b>Distributor</b> / Manage Accounts</small>
+<small>Manage Accounts</small>
 
 !> Only the **Distributor** has access to the **Manage Accounts** tab in the Digital Barricade Website.
 
@@ -40,4 +40,3 @@
     <img src="/images/distributor/manageAccounts/manageAccountsEditModal.png" alt="sample"  width="100%" height="500">
     <img src="/images/distributor/manageAccounts/manageAccountsEditModal2.png" alt="sample"  width="100%" height="500">
 </div>
-
