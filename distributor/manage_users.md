@@ -1,7 +1,7 @@
 <small><b>Distributor</b> / Manage Users</small>
 
 <br />
-<h1>Managing account users</h1>
+<h1>Account Users Management</h1>
 <div class="description">
     <p>
        In the manage users tab of the panel, the distributor can monitor each account user. Here, the distributor can view the name, email, specific roles, and status of each account user.
@@ -38,3 +38,16 @@
     </p>
     <img src="/images/image528.png" alt="edit_user"  width="400" height="600">
 </div>
+
+<br />
+<h1>Delete user account</h1>
+<div class="description">
+    <img src="/images/image527.png" alt="edit_user"  width="100%" height="600">
+</div>
+<div class="description">
+    <p>     
+       The distributor can delete the selected user account when the modal appears after clicking the delete option on the dropdown menu.
+    </p>
+    <img src="/images/disDeleteAcc.png" alt="edit_user"  width="100%" height="600">
+</div>
+
