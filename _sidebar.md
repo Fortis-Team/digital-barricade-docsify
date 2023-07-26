@@ -1,4 +1,4 @@
-- [Home](/)
+<!-- - [Home](/) -->
 
 - Distributor
   - [Devices](/distributor/devices.md)
