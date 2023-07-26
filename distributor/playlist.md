@@ -52,3 +52,12 @@
     <img src="/images/image521.png" alt="edit_uploaded_media_assets" width="100%" height="400">
     <img src="/images/image522.png" alt="edit_media_assets" width="90%" height="500">
 </div>
+
+<br />
+<h1>Deleting a Playlist</h1>
+<div class="description">
+    <img src="/images/image410.png" alt="duration" width="40%" height="550">
+    <p>
+         Under the Edit option, the distributor can delete a playlist. To do this, select the Delete option which will then open a modal window to confirm the deletion of the playlist click the Continue delete button.
+    </p>
+</div>
