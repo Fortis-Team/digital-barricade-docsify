@@ -9,16 +9,16 @@
   - [Manage Accounts](/distributor/manage_accounts.md)
 
 <!-- - Account Admin -->
-  - [Devices](/account_admin/devices.md)
+  <!-- - [Devices](/account_admin/devices.md)
   - [Groups](/account_admin/groups.md)
   - [Media Library](/account_admin/media_library.md)
-  - [Playlist](/account_admin/playlist.md)
+  - [Playlist](/account_admin/playlist.md) -->
 
-<!-- - Account User
+<!-- - Account User -->
   - [Devices](/account_user/devices.md)
   - [Groups](/account_user/groups.md)
   - [Media Library](/account_user/media_library.md)
-  - [Playlist](/account_user/playlist.md) -->
+  - [Playlist](/account_user/playlist.md)
 
 <!-- - Languages
   - [English](/)
