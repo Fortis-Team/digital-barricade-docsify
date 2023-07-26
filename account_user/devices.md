@@ -41,7 +41,7 @@
     <img src="/images/image203.png" alt="change_device_timezone"  width="40%" height="700">
     <img src="/images/image204.png" alt="change_device_timezone"  width="40%" height="700">
     <p> 
-        To change the Device’s time zone the User will be able to do this by going to the drop down menu under Timezone. They can either search the timezone they want or look for it in the drown down menu. To save it press Enter or click Save Changes.  
+        To change the Device’s time zone the User will be able to do this by going to the drop-down menu under Timezone. They can either search the timezone they want or look for it in the drown-down menu. To save it press Enter or click Save Changes.  
     </p>
 </div>
 
@@ -51,7 +51,7 @@
     <img src="/images/image205.png" alt="change_device_timezone"  width="40%" height="700">
     <img src="/images/image206.png" alt="change_device_timezone"  width="40%" height="700">
     <p>        
-        To change or assign a playlist to a device the User will be able to do this by going to the drop down menu under Current Playlist then the playlist created by the User and Users will be listed, after the User has selected the desired playlist a preview will be shown. To save the playlist and play it on the Device press Enter or click Save Changes.
+        To change or assign a playlist to a device the User will be able to do this by going to the drop-down menu under Current Playlist then the playlist created by the User and Users will be listed, after the User has selected the desired playlist a preview will be shown. To save the playlist and play it on the Device press Enter or click Save Changes.
     </p>
 </div>
 

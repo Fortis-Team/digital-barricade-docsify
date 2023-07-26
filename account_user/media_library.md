@@ -13,8 +13,7 @@
 <h1>Adding media</h1>
 <div class="description">
     <p>
-        The User has the option to upload a new media by selecting the add media button and entering the preferred name and type of media (either picture or video).
-        To add a media, click the Add Media button as pointed out in the picture.
+        The User has the option to upload a new media by selecting the add media button and entering the preferred name and type of media (either picture or video).To add media, click the Add Media button as pointed out in the picture.
     </p>
     <img src="/images/image312.png" alt="add_media_assets" width="100%" height="600">
      <p>
@@ -40,7 +39,7 @@
     <img src="/images/image316.png" alt="add_media_assets" width="33%" height="400">
     <img src="/images/image317.png" alt="add_media_assets" width="35%" height="500">
      <p>
-        Under the Edit option, the Admin can delete a custom media. To do this, select the Delete option which will then open a modal window to confirm the deletion of the media click the Continue delete button.
+        Under the Edit option, the User can delete a custom media. To do this, select the Delete option which will then open a modal window to confirm the deletion of the media click the Continue delete button.
     </p>
 </div>
 

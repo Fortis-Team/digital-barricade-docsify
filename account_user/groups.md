@@ -4,7 +4,7 @@
 <h1>Device Group Configuration</h1>
 <div class="description">
     <p>
-        In the left side panel if Groups was selected the Admin will see this screen. This is where the Admin will be able to create a group, set a playlist for a group, add a device to a group and delete a group. In the panel's groups tab, the user can see which playlist is currently playing on several devices. They are also capable of managing and making changes to the playlists on all devices within a particular group, allowing for smooth control over the content being played.
+        In the left side panel if Groups was selected the User will see this screen. This is where the User will be able to create a group, set a playlist for a group, add a device to a group and delete a group. In the panel's groups tab, the user can see which playlist is currently playing on several devices. They are also capable of managing and making changes to the playlists on all devices within a particular group, allowing for smooth control over the content being played.
     </p>
     <img class="center" src="/images/image0501.png" alt="device_config"  width="100%" height="600">
 </div>

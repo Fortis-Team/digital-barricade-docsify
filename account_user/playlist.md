@@ -34,7 +34,7 @@
 <div class="description">
     <img src="/images/image405.png" alt="duration" width="90%" height="550">
     <p>
-        If the User chose the Duration Based option this modal window will appear where they will be able to choose the Language, Text to be displayed, Font Size, Font Style, Font Color and for the Duration Based the duration of this item will show/play on the device.
+        If the User chose the Duration Based option this modal window will appear where they will be able to choose the Language, Text to be displayed, Font Size, Font Style, and Font Color and for the Duration Based the duration of this item will show/play on the device.
     <br />
         If the User wants to see the changes they made they have to press the Generate Preview button to see the preview of the changes they made and to add the item to the playlist they need to press the Add Item to List button.
     </p>
@@ -45,13 +45,13 @@
 <div class="description">
     <img src="/images/image406.png" alt="duration" width="90%" height="550">
     <p>       
-        If the User chose the Schedule/Time-Based option this modal window will appear where they will be able to choose the Language, Text to be displayed, Font Size, Font Style, Font Color and for the Schedule/Time-Based the days and the specific start and end time of the item will play.
+        If the User chose the Schedule/Time-Based option this modal window will appear where they will be able to choose the Language, Text to be displayed, Font Size, Font Style, Font Color and for the Schedule/Time-Based days and the specific start and end time of the item will play.
     <br />
         If the User wants to see the changes they made they have to press the Generate Preview button to see the preview of the changes they made and to add the item to the playlist they need to press the Add Item to List button.
     </p>
     <img src="/images/image407.png" alt="duration" width="90%" height="550">
     <p>    
-        Then, to add/save the newly created playlist once the User is satisfied with their modifications. Click the Save button.
+        Then, add/save the newly created playlist once the User is satisfied with their modifications. Click the Save button.
     </p>
 </div>
 
