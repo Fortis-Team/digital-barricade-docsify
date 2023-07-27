@@ -1,10 +1,9 @@
-<small><b>Account User</b> / Access Invitations</small>
+# Accept invitation
 
-<br />
-<h1>Accept invitation</h1>
 <div class="description">
-    <p>
-        The user must navigate first to the account sharing tab in the panel to accept the invitation from the distributor or admin to gain access to the digital barricade website.
-    </p>
-    <img src="/images/image20.png" alt="device_group" width="100%" height="600">
+
+The user must navigate first to the account sharing tab in the panel to accept the invitation from the distributor or admin to gain access to the digital barricade website.
+
+![screenshot](/images/image20.png ":size=100%")
+
 </div>
