@@ -1,5 +1,3 @@
-!> Only the **Distributor** & **Admin** has the authority to unregister a device.
-
 # Device Configuration
 
 <div class="description">
