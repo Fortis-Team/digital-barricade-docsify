@@ -1,42 +1,41 @@
-<small>Manage Accounts</small>
-
 !> Only the **Distributor** has access to the **Manage Accounts** tab in the Digital Barricade Website.
 
-<h1>Accounts management</h1>
+# Accounts management
+
 <div class="description">
-    <p>
-        The added accounts by the distributor along with the demo account which contains a variety of registered devices are listed on the manage accounts tab of the panel together with their important details, such as the account name, number of licenses used, and their default email address.
-    </p>
-     <p>
-       There are no access restrictions on the distributor account, every account that is available on the digital barricade website can be managed by the distributor.
-    </p>
-     <p>
-        1 device is limited to 1 license. This ensures that each device must have its license to access and utilize the software.
-    </p>
-    <img src="/images/distributor/manageAccounts/manageAccountsTab.png" alt="sample"  width="100%" height="500">
+
+The added accounts by the distributor along with the demo account which contains a variety of registered devices are listed on the manage accounts tab of the panel together with their important details, such as the account name, number of licenses used, and their default email address.
+
+There are no access restrictions on the distributor account, every account that is available on the digital barricade website can be managed by the distributor.
+1 device is limited to 1 license. This ensures that each device must have its license to access and utilize the software.
+
+![screenshot](/images/distributor/manageAccounts/manageAccountsTab.png ":size=100%")
+
 </div>
 
-<br />
-<h1>Add Account</h1>
+# Add Account
+
 <div class="description">
-    <p>
-        The distributor may set up a new account by configuring a modal that appears when they click the add account button.
-    </p>
-    <img src="/images/distributor/manageAccounts/manageAccountsAdd.png" alt="sample"  width="100%" height="500">
-    <p>
-        The distributor will then need to fill out the input fields to create a new account.
-    </p>
-    <img src="/images/distributor/manageAccounts/manageAccountsAddModal.png" alt="sample"  width="100%" height="500">
-    <img src="/images/distributor/manageAccounts/manageAccountsAddModal2.png" alt="sample"  width="100%" height="500">
+
+The distributor may set up a new account by configuring a modal that appears when they click the add account button.
+
+![screenshot](/images/distributor/manageAccounts/manageAccountsAdd.png ":size=100%")
+
+The distributor will then need to fill out the input fields to create a new account.
+
+![screenshot](/images/distributor/manageAccounts/manageAccountsAddModal.png ":size=100%")
+![screenshot](/images/distributor/manageAccounts/manageAccountsAddModal2.png ":size=100%")
+
 </div>
 
-<br />
-<h1>Edit account/adjust license</h1>
+# Edit account/adjust license
+
 <div class="description">
-    <p>
-        The distributor can update the information of each account by clicking the edit account under the dropdown menu.
-    </p>
-    <img src="/images/distributor/manageAccounts/manageAccountsEdit.png" alt="sample"  width="100%" height="500">
-    <img src="/images/distributor/manageAccounts/manageAccountsEditModal.png" alt="sample"  width="100%" height="500">
-    <img src="/images/distributor/manageAccounts/manageAccountsEditModal2.png" alt="sample"  width="100%" height="500">
+
+The distributor can update the information of each account by clicking the edit account under the dropdown menu.
+
+![screenshot](/images/distributor/manageAccounts/manageAccountsEdit.png ":size=100%")
+![screenshot](/images/distributor/manageAccounts/manageAccountsEditModal.png ":size=100%")
+![screenshot](/images/distributor/manageAccounts/manageAccountsEditModal2.png ":size=100%")
+
 </div>
