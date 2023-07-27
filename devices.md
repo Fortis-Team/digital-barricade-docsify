@@ -1,6 +1,5 @@
 <small>Devices</small>
 
-!> Only the **Distributor** & **Admin** has the authority to unregister a device.
 <br />
 
 <h1>Device Configuration</h1>
@@ -33,7 +32,23 @@
 </div>
 
 <br />
-<h1>Reboot a device</h1>
+<h1>Unregister device</h1>
+<div class="description">
+    <p>
+        To unregister a device, the admin or user must click the unregister on the dropdown menu. As stated, unregistering the device shall disconnect the device from the system and will not receive any upcoming updates unless it is re-registered through the phone app.
+    </p>
+    <img src="/images/devices/devicesUnregister.png" alt="reboot_device"  width="100%" height="500">
+    <p>
+        Once the unregister option is clicked, it will display a modal to confirm the unregistering process for the device.
+    </p>
+    <p>
+        When the device is successfully unregistered to the cloud, it will reboot the device and will be set to hotspot mode. Using the same or another account, the device can be re-registered in the cloud through the phone app.
+    </p>
+    <img src="/images/devices/devicesUnregisterModal.png" alt="reboot_device"  width="100%" height="500">
+</div>
+
+<br />
+<h1>Reboot device</h1>
 <div class="description">
     <p>
         Upon clicking the reboot option in the dropdown menu, the device will undergo a restart and will temporarily be inaccessible for a few seconds. Once the reboot is complete, wait for the device to indicate its online status.
