@@ -1,4 +1,4 @@
-<small><b>Account User</b> / Media Library</small>
+<small>Media Library</small>
 
 <br />
 <h1>Media Management</h1>
@@ -19,14 +19,14 @@
      <p>
         A modal window will appear where the User will press the Choose File button and they will choose a media file they want to upload. They can also remove it and choose another file by clicking Clear. Click Save to confirm the media file.
     </p>
-    <img src="/images/image313.png" alt="add_media_assets" width="700" height="600">
+    <img src="/images/image313.png" alt="add_media_assets" width="100%" height="600">
 </div>
 
 <br />
 <h1>Edit uploaded media asset</h1>
 <div class="description">
-    <img src="/images/image314.png" alt="add_media_assets" width="33%" height="400">
-    <img src="/images/image315.png" alt="add_media_assets" width="35%" height="500">
+    <img src="/images/image314.png" alt="add_media_assets" width="100%" height="600">
+    <img src="/images/image315.png" alt="add_media_assets" width="100%" height="600">
      <p>
         To make changes to the uploaded media, simply select the edit option from the dropdown menu. The user is allowed to rename the media but is not permitted to alter the uploaded media itself.
     <br />
@@ -36,10 +36,9 @@
 
 <h1>Delete media</h1>
 <div class="description">
-    <img src="/images/image316.png" alt="add_media_assets" width="33%" height="400">
-    <img src="/images/image317.png" alt="add_media_assets" width="35%" height="500">
+    <img src="/images/image316.png" alt="add_media_assets" width="100%" height="600">
+    <img src="/images/image317.png" alt="add_media_assets" width="100%" height="600">
      <p>
         Under the Edit option, the User can delete a custom media. To do this, select the Delete option which will then open a modal window to confirm the deletion of the media click the Continue delete button.
     </p>
 </div>
-

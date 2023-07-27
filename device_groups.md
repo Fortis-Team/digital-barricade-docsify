@@ -1,10 +1,10 @@
-<small><b>Account User</b> / Groups</small>
+<small>Device Groups</small>
 
 <br />
 <h1>Device Group Configuration</h1>
 <div class="description">
     <p>
-        Under the Groups tab in the panel, the user can view which playlist is being played on multiple devices. The user can manage and update the playlists across all devices in a specific group, providing seamless control over the content being played.The user can view the created groups under the groups tab of the panel. Each group shows the playlist that is being played across various devices. The user has the ability to manage and update the playlists across all devices in a specific group, providing seamless control over the content being played.
+        Under the Groups tab in the panel, the user can view which playlist is being played on multiple devices. The user can manage and update the playlists across all devices in a specific group, providing seamless control over the content being played. The user can view the created groups under the groups tab of the panel. Each group shows the playlist that is being played across various devices. The user has the ability to manage and update the playlists across all devices in a specific group, providing seamless control over the content being played.
     </p>
     <img src="/images/groups/groupsTab.png" alt="group_create_playlist" width="100%" height="500">
 </div>
@@ -13,7 +13,7 @@
 <h1> Create a Group </h1>
 <div class="description">
     <p>
-       To create a new group, simply click the Add Group button in the device groups' interface. 
+       To create a new group, simply click the Add Group button in the device groups' interface.
     </p>
     <img src="/images/groups/groupsAdd.png" alt="create_device_config"  width="100%" height="500">
 <br/>
