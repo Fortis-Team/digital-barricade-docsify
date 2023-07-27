@@ -19,7 +19,7 @@ Install `docsify-cli `. Check [Docsify](https://docsify.js.org/#/quickstart) for
 Run local server
 
 ```bash
-  docsify serve
+  docsify serve docs
 ```
 
 [http://localhost:3000](http://localhost:3000)
