@@ -1,37 +1,40 @@
-<small><b>Distributor</b> / Manage Accounts</small>
+!> Digital Barricade Web サイトの [**アカウントの管理**]タブにアクセスできるのは**ディストリビュータ**のみです。
 
-<br />
-<h1>デバイスの一覧</h1>
+# アカウント管理
+
 <div class="description">
-    <p>
-        ディストリビューターによって追加されたアカウントと、登録されたさまざまなデバイスが含まれるデモアカウントは、パネルの「アカウントの管理」タブに重要な詳細と共にリストされています。これには、アカウント名、使用されているライセンス数、およびデフォルトのメールアドレスが含まれています。
-    </p>
-     <p>
-       ディストリビューターアカウントにはアクセス制限はありません。デジタルバリケードのウェブサイトで利用可能なすべてのアカウントをディストリビューターが管理することができます。
-    </p>
-     <p>
-        1台のデバイスには1つのライセンスが制限されています。これにより、各デバイスはソフトウェアにアクセスして利用するために独自の個別のライセンスを持っている必要があります。
-    </p>
-    <img src="/images/image32.png" alt="sample"  width="100%" height="600">
+
+ディストリビュータによって追加されたアカウントと、さまざまな登録デバイスを含むデモ アカウントが、アカウント名、使用されているライセンスの数、デフォルトの電子メール アドレスなどの重要な詳細とともにパネルのアカウント管理タブにリストされます。 。
+
+ディストリビュータ アカウントにはアクセス制限はなく、デジタル バリケード Web サイトで利用可能なすべてのアカウントはディストリビュータによって管理できます。1 デバイスにつき 1 ライセンスに制限されます。これにより、ソフトウェアにアクセスして利用するには各デバイスにライセンスが必要になります。
+
+![screenshot](../images/manageAccounts/manageAccountsTab.png ":size=100%")
+
 </div>
 
-<br />
+# アカウントを追加する
+
 <div class="description">
-    <p>
-        アカウントを追加」ボタンをクリックすることで、ディストリビューターは新しいアカウントを作成するために入力フィールドを記入する必要があります。
-    </p>
-    <img src="/images/image33.png" alt="sample"  width="40%" height="600">
-    <img src="/images/image34.png" alt="sample"  width="40%" height="600">
+
+ディストリビュータは、アカウントの追加ボタンをクリックしたときに表示されるモーダルを設定することで、新しいアカウントを設定できます。
+
+![screenshot](../images/manageAccounts/manageAccountsAdd.png ":size=100%")
+
+ディストリビューターは、入力フィールドに記入して新しいアカウントを作成する必要があります。
+
+![screenshot](../images/manageAccounts/manageAccountsAddModal.png ":size=100%")
+![screenshot](../images/manageAccounts/manageAccountsAddModal2.png ":size=100%")
+
 </div>
 
-<br />
-<h1>アカウントの編集 / ライセンスの調整</h1>
-<div class="description">
-    <p>
-        ディストリビューターは、ドロップダウンメニューの中から「アカウントの編集」を選択することで、各アカウントの情報を更新することができます。
-    </p>
-    <img src="/images/image35.png" alt="sample"  width="100%" height="600">
-    <img src="/images/image36.png" alt="sample"  width="40%" height="600">
-    <img src="/images/image37.png" alt="sample"  width="40%" height="600">
-</div>
+# アカウントの編集/ライセンスの調整
 
+<div class="description">
+
+ディストリビュータは、ドロップダウン メニューの [アカウントの編集] をクリックして、各アカウントの情報を更新できます。
+
+![screenshot](../images/manageAccounts/manageAccountsEdit.png ":size=100%")
+![screenshot](../images/manageAccounts/manageAccountsEditModal.png ":size=100%")
+![screenshot](../images/manageAccounts/manageAccountsEditModal2.png ":size=100%")
+
+</div>
