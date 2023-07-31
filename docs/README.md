@@ -28,7 +28,7 @@
 
 > For efficient management, the admin account can keep track on the shared accounts. The system's admin account has the authority to monitor both user and admin accounts. The "Manage Users" interface of the website provides an extensive overview of each user account, including details like names, email addresses, the roles assigned to each account, and their current status.
 
-> An admin account holds the power to perform critical tasks, such as resetting passwords, modifying names, updating email addresses, and changing the role of an account. However, there is one limitation; the admin account lacks the authority to delete other accounts.
+> An admin account holds the power to perform critical tasks, such as resetting passwords, modifying names, updating email addresses, and changing the role of an account.
 
 ## User Account
 
