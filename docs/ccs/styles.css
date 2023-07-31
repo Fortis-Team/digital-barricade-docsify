@@ -7,7 +7,7 @@
   font-weight: 400;
 }
 
-#google_translate_element > div > div {
+/* #google_translate_element > div > div {
   display: flex;
   align-items: center;
 
@@ -18,7 +18,7 @@
 
 #google_translate_element > div > div .goog-te-gadget-icon {
   margin-bottom: 0;
-}
+} */
 
 div.description {
   margin-bottom: 50px;
