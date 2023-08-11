@@ -1,5 +1,3 @@
-!> Only the **Distributor** has the authority to delete accounts.
-
 # Account Users Management
 
 <div class="description">
@@ -16,7 +14,7 @@ The user and admin accounts differ slightly from one another. Account sharing is
 
 <div class="description">
 
-The distributor and admin can add a new user by clicking the invite user button at the account user interface. A modal will then appear, requiring the distributor and admin to provide their name, and email address, and select their role to either user or admin. The newly invited user account can navigate through the digital barricade website limited to their given role.
+The admin can add a new user by clicking the invite user button at the account user interface. A modal will then appear, requiring the admin to provide their name, and email address, and select their role to either user or admin. The newly invited user account can navigate through the digital barricade website limited to their given role.
 
 ![user_invite](/images/manageUsers/manageUsersAdd.png ":size=100%")
 
@@ -26,7 +24,7 @@ The distributor and admin can add a new user by clicking the invite user button 
 
 <div class="description">
 
-The distributor and admin can manage accounts, including updating, deleting, and resetting the passwords of user/customer and admin accounts.
+The admin can manage accounts, including updating, deleting, and resetting the passwords of user/customer and admin accounts.
 
 ![user_edit](/images/manageUsers/manageUsers.png ":size=100%")
 ![user_edit](/images/manageUsers/manageUsersEdit.png ":size=100%")
@@ -34,7 +32,7 @@ The distributor and admin can manage accounts, including updating, deleting, and
 </div>
 <div class="description">
 
-The distributor and admin can rename the selected user account and update their role from admin to user and vice versa.
+The admin can rename the selected user account and update their role from admin to user and vice versa.
 
 ![user_edit](/images/manageUsers/manageUsersEditModal.png ":size=100%")
 
@@ -43,7 +41,7 @@ The distributor and admin can rename the selected user account and update their 
 # Delete User Account
 
 <div class="description">
-The distributor can delete the selected user account when the modal appears after clicking the delete option on the dropdown menu.
+The admin can delete the selected user account when the modal appears after clicking the delete option on the dropdown menu.
 
 ![user_delete](/images/manageUsers/manageUsersDelete.png ":size=100%")
 
@@ -61,7 +59,7 @@ The distributor can delete the selected user account when the modal appears afte
 
 <div class="description">
 
-The distributor and admin can reset the selected account's password. The reset password message will be sent to the account's email.
+The admin can reset the selected account's password. The reset password message will be sent to the account's email.
 
 ![user_reset](/images/manageUsers/manageUsersResetModal.png ":size=100%")
 
