@@ -1,7 +1,6 @@
 <small>Users</small>
 
 <!-- !> Only the **Admin** can manage users. -->
-
 <h1>Account Users Management</h1>
 <div class="description">
     <p>
