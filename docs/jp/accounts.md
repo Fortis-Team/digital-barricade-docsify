@@ -1,5 +1,3 @@
-!> Digital Barricade Web サイトの [**アカウントの管理**]タブにアクセスできるのは**ディストリビュータ**のみです。
-
 # アカウント管理
 
 <div class="description">
