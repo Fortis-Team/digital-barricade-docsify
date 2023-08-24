@@ -45,27 +45,3 @@
 ![delete_device_group](../images/groups/groupsDelete.png ":size=100%")
 
 </div>
-
-# 編集グループ
-
-<div class="description">
-
-ユーザーは、選択した特定のグループのドロップダウンメニューから編集をクリックすることにより、グループを変更することができます。ユーザーは、選択したグループの名前とプレイリストを変更し、選択したプレイリストを再生するデバイスを追加または削除することができます。
-
-![edit_device_group](../images/groups/groupsEdit.png ":size=100%")
-
-モーダルが表示されると、ユーザーは選択したグループの名前を更新し、新しいプレイリストを選択し、選択したプレイリストを再生するデバイスを追加または削除することができます。
-
-![edit_device_group](../images/groups/groupsEditModal.png ":size=100%")
-
-</div>
-
-# グループ削除
-
-<div class="description">
-
-編集オプションの下で、ユーザーはグループを削除することができます。これを行うには、ドロップダウンから削除オプションを選択し、グループの削除を確認するためのモーダルウィンドウを開きます。
-
-![delete_device_group](../images/groups/groupsDelete.png ":size=100%")
-
-</div>

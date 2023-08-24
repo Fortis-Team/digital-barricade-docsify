@@ -48,9 +48,9 @@ If the user wants to see the changes they made they have to press the Generate P
 
 If the user chose the Schedule/Time-Based option this modal window will appear where they will be able to choose the Language, Text to be displayed, Font Size, Font Style, Font Color and for the Schedule/Time-Based days and the specific start and end time of the item will play.
 
-If the user wants to see the changes they made they have to press the Generate Preview button to see the preview of the changes they made. To add the item to the playlist they need to press the Add Item to List button.
-
 ![duration](/images/image406.png ":size=100%")
+
+If the user wants to see the changes they made they have to press the Generate Preview button to see the preview of the changes they made. To add the item to the playlist they need to press the Add Item to List button.
 
 ![duration](/images/image407.png ":size=100%")
 
