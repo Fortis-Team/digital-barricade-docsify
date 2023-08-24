@@ -1,37 +1,48 @@
-<small><b>Distributor</b> / Manage Accounts</small>
+# アカウント管理
 
-<br />
-<h1>デバイスの一覧</h1>
 <div class="description">
-    <p>
-        ディストリビューターによって追加されたアカウントと、登録されたさまざまなデバイスが含まれるデモアカウントは、パネルの「アカウントの管理」タブに重要な詳細と共にリストされています。これには、アカウント名、使用されているライセンス数、およびデフォルトのメールアドレスが含まれています。
-    </p>
-     <p>
-       ディストリビューターアカウントにはアクセス制限はありません。デジタルバリケードのウェブサイトで利用可能なすべてのアカウントをディストリビューターが管理することができます。
-    </p>
-     <p>
-        1台のデバイスには1つのライセンスが制限されています。これにより、各デバイスはソフトウェアにアクセスして利用するために独自の個別のライセンスを持っている必要があります。
-    </p>
-    <img src="/images/image32.png" alt="sample"  width="100%" height="600">
+
+ユーザーによって追加されたアカウントは、登録された様々なデバイスを含むデモアカウントと共に、アカウント名、使用ライセンス数、デフォルトの電子メールアドレスなどの重要な詳細と共にパネルのアカウント管理タブにリストされます。
+
+ユーザーアカウントにアクセス制限はなく、デジタル・バリケードのウェブサイトで利用可能なすべてのアカウントをユーザーが管理できる。
+1デバイスは1ライセンスに制限されています。これにより、各デバイスがソフトウェアにアクセスし利用するためには、そのライセンスが必要です。
+
+<!-- ![screenshot](/images/manageAccounts/manageAccountsTab.png ":size=100%") -->
+<img src="/images/manageAccounts/manageAccountsTab.png" alt="Manage Accounts Tab" style="max-width: 100%;">
+
 </div>
 
-<br />
+# アカウントの追加
+
 <div class="description">
-    <p>
-        アカウントを追加」ボタンをクリックすることで、ディストリビューターは新しいアカウントを作成するために入力フィールドを記入する必要があります。
-    </p>
-    <img src="/images/image33.png" alt="sample"  width="40%" height="600">
-    <img src="/images/image34.png" alt="sample"  width="40%" height="600">
+
+ユーザーは、アカウント追加ボタンをクリックしたときに表示されるモーダルを設定することで、新しいアカウントを設定することができます。
+
+<!-- ![screenshot](/images/manageAccounts/manageAccountsAdd.png ":size=100%") -->
+<img src="/images/manageAccounts/manageAccountsAdd.png" alt="Add Account" style="max-width: 100%;">
+
+ユーザーは、新しいアカウントを作成するために入力フィールドを埋める必要があります。
+
+<!-- ![screenshot](/images/manageAccounts/manageAccountsAddModal.png ":size=100%")
+![screenshot](/images/manageAccounts/manageAccountsAddModal2.png ":size=100%") -->
+
+<img src="/images/manageAccounts/manageAccountsAddModal.png" alt="Add Account" style="max-width: 100%;">
+<img src="/images/manageAccounts/manageAccountsAddModal2.png" alt="Add Account" style="max-width: 100%;">
+
 </div>
 
-<br />
-<h1>アカウントの編集 / ライセンスの調整</h1>
-<div class="description">
-    <p>
-        ディストリビューターは、ドロップダウンメニューの中から「アカウントの編集」を選択することで、各アカウントの情報を更新することができます。
-    </p>
-    <img src="/images/image35.png" alt="sample"  width="100%" height="600">
-    <img src="/images/image36.png" alt="sample"  width="40%" height="600">
-    <img src="/images/image37.png" alt="sample"  width="40%" height="600">
-</div>
+# アカウント編集／ライセンスを調整
 
+<div class="description">
+
+ユーザーは、ドロップダウンメニューの下にあるアカウントの編集をクリックして、各アカウントの情報を更新することができます。
+
+<!-- ![screenshot](/images/manageAccounts/manageAccountsEdit.png ":size=100%")
+![screenshot](/images/manageAccounts/manageAccountsEditModal.png ":size=100%")
+![screenshot](/images/manageAccounts/manageAccountsEditModal2.png ":size=100%") -->
+
+<img src="/images/manageAccounts/manageAccountsEdit.png" alt="Edit Account" style="max-width: 100%;">
+<img src="/images/manageAccounts/manageAccountsEditModal.png" alt="Edit Account" style="max-width: 100%;">
+<img src="/images/manageAccounts/manageAccountsEditModal2.png" alt="Edit Account" style="max-width: 100%;">
+
+</div>

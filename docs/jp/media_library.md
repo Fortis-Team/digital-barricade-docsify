@@ -1,26 +1,55 @@
-<small><b>Account User</b> / Media Library</small>
+# メディア・マネジメント
 
-<br />
-<h1>メディアアセットのアップロード</h1>
 <div class="description">
-    <p>
-        ユーザーは、パネルのメディアライブラリータブを通じてアップロードされたメディア（画像および動画）にアクセスすることができます。アップロードされたメディアは、新しいプレイリストを作成する際に利用されます。
-    </p>
-    <img src="/images/image18.png" alt="uploaded_media_assets" width="100%" height="600">
-</div>
-<div class="description">
-    <p>
-        ユーザーは、「メディア追加」ボタンを選択し、好みの名前とメディアのタイプ（画像または動画）を入力することで、新しいメディアをアップロードするオプションを持っています。
-    </p>
-    <img src="/images/image5.png" alt="add_media_assets" width="40%" height="500">
+
+ユーザーは、パネルのメディアライブラリタブを通じて、画像とビデオの両方で構成されるアップロードされたメディアにアクセスすることができます。アップロードされたメディアは、新しいプレイリストを作成するために利用されます。
+
+<!-- ![uploaded_media_assets](/images/image0502.png ":size=100%") -->
+<img src="/images/image0502.png" alt="Media Library Tab" style="max-width: 100%;">
+
 </div>
 
-<br />
-<h1>アップロードされたメディアアセットの編集</h1>
+# メディア資産を追加する
+
 <div class="description">
-    <p>
-        アップロードされたメディアに変更を加えるには、ドロップダウンメニューから「編集」オプションを選択するだけです。ユーザーはメディアの名前を変更することができますが、アップロードされたメディア自体を変更することは許可されていません。
-    </p>
-    <img src="/images/image8.png" alt="edit_uploaded_media_assets" width="75%" height="400">
-    <img src="/images/image6.png" alt="edit_media_assets" width="40%" height="500">
+
+ユーザーは、メディア追加ボタンを選択し、希望するメディアの名前とタイプ（画像またはビデオ）を入力することで、新しいメディアをアップロードすることができます。 メディアを追加するには、図のようにメディア追加ボタンをクリックします。
+
+<!-- ![add_media_assets](/images/image312.png ":size=100%") -->
+<img src="/images/image312.png" alt="Media Library Tab" style="max-width: 100%;">
+
+モーダルウィンドウが表示され、ユーザーは「ファイルを選択」ボタンを押し、アップロードしたいメディアファイルを選択します。また、「クリア」をクリックすることで、そのファイルを削除し、別のファイルを選択することもできます。保存をクリックしてメディアファイルを確定します。
+
+<!-- ![add_media_assets](/images/image313.png ":size=100%") -->
+<img src="/images/image313.png" alt="Media Library Tab" style="max-width: 100%;">
+
+</div>
+
+# メディア資産を編集する
+
+<div class="description">
+
+アップロードされたメディアに変更を加えるには、ドロップダウンメニューから編集オプションを選択するだけです。ユーザーはメディアの名前を変更することはできますが、アップロードされたメディア自体を変更することはできません。
+
+<!-- ![add_media_assets](/images/image314.png ":size=100%") -->
+<img src="/images/image314.png" alt="Media Library Tab" style="max-width: 100%;">
+
+メディア名の変更を保存するには、［変更を保存］ボタンをクリックします。
+
+<!-- ![add_media_assets](/images/image315.png ":size=100%") -->
+<img src="/images/image315.png" alt="Media Library Tab" style="max-width: 100%;">
+
+</div>
+
+# メディア資産の削除
+
+<div class="description">
+
+編集オプションで、ユーザーはカスタムメディアを削除することができます。これを行うには、削除オプションを選択し、メディアの削除を確認するモーダルウィンドウを開き、「削除を続行」ボタンをクリックします。
+
+<!-- ![add_media_assets](/images/image316.png ":size=100%")
+![add_media_assets](/images/image317.png ":size=100%") -->
+<img src="/images/image316.png" alt="Media Library Tab" style="max-width: 100%;">
+<img src="/images/image317.png" alt="Media Library Tab" style="max-width: 100%;">
+
 </div>

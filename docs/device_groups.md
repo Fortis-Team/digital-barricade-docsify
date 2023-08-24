@@ -8,7 +8,7 @@ Under the Groups tab in the panel, the user can view which playlist is being pla
 
 </div>
 
-# Create a Group
+# Create Group
 
 <div class="description">
 

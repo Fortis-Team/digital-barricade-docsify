@@ -8,7 +8,7 @@ The playlist manager contains the playlists that are used when creating groups a
 
 </div>
 
-# Creating a Playlist
+# Create Playlist
 
 <div class="description">
 
@@ -34,11 +34,11 @@ Additionally, the modal incorporates a dropdown menu that allows the user to sel
 
 <div class="description">
 
-![duration](/images/image405.png ":size=100%")
-
 If the user chose the Duration Based option this modal window will appear where they will be able to choose the Language, Text to be displayed, Font Size, Font Style, and Font Color and for the Duration Based the duration of this item will show/play on the device.
 
-If the user wants to see the changes they made they have to press the Generate Preview button to see the preview of the changes they made and to add the item to the playlist they need to press the Add Item to List button.
+If the user wants to see the changes they made they have to press the Generate Preview button to see the preview of the changes they made. To add the item to the playlist they need to press the Add Item to List button.
+
+![duration](/images/image405.png ":size=100%")
 
 </div>
 
@@ -46,37 +46,38 @@ If the user wants to see the changes they made they have to press the Generate P
 
 <div class="description">
 
-![duration](/images/image406.png ":size=100%")
-
 If the user chose the Schedule/Time-Based option this modal window will appear where they will be able to choose the Language, Text to be displayed, Font Size, Font Style, Font Color and for the Schedule/Time-Based days and the specific start and end time of the item will play.
 
-If the user wants to see the changes they made they have to press the Generate Preview button to see the preview of the changes they made and to add the item to the playlist they need to press the Add Item to List button.
+If the user wants to see the changes they made they have to press the Generate Preview button to see the preview of the changes they made. To add the item to the playlist they need to press the Add Item to List button.
+
+![duration](/images/image406.png ":size=100%")
 
 ![duration](/images/image407.png ":size=100%")
 
-Then, add/save the newly created playlist once the User is satisfied with their modifications. Click the Save button.
+Then, add/save the newly created playlist by clicking the Save button.
 
 </div>
 
-# Editing a Playlist
+# Edit Playlist
 
 <div class="description">
-
-![duration](/images/image408.png ":size=100%")
-![duration](/images/image409.png ":size=100%")
 
 By choosing the Edit option the User will be taken to this modal window where they will be able to change the playlist’s name, display size, and playing mode and edit individual items like changing the time for time-based playlist or changing the duration for duration-based playlist.
 
-To save the changes made to the playlist, click the Save Changes button this will result in whichever device has this playlist will update its content automatically.
+![duration](/images/image408.png ":size=100%")
+
+Click the Save Changes button to save the playlist's changes. This will cause the playlist on whichever device it is to automatically update.
+
+![duration](/images/image409.png ":size=100%")
 
 </div>
 
-# Deleting a Playlist
+# Delete Playlist
 
 <div class="description">
 
-![duration](/images/image410.png ":size=100%")
-
 Under the Edit option, the user can delete a playlist. To do this, select the Delete option which will then open a modal window to confirm the deletion of the playlist click the Continue delete button.
+
+![duration](/images/image410.png ":size=100%")
 
 </div>

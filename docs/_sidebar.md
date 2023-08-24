@@ -6,3 +6,6 @@
 - [Media Library](/media_library.md)
 - [Playlist](/playlist.md)
 - [Users](/users.md)
+
+- Language
+  - [Japanese](jp/)

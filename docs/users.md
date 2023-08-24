@@ -29,9 +29,6 @@ The admin can manage accounts, including updating, deleting, and resetting the p
 ![user_edit](/images/manageUsers/manageUsers.png ":size=100%")
 ![user_edit](/images/manageUsers/manageUsersEdit.png ":size=100%")
 
-</div>
-<div class="description">
-
 The admin can rename the selected user account and update their role from admin to user and vice versa.
 
 ![user_edit](/images/manageUsers/manageUsersEditModal.png ":size=100%")
@@ -53,13 +50,9 @@ The admin can delete the selected user account when the modal appears after clic
 
 <div class="description">
 
+The admin can reset the selected account's password by clicking the reset password button once the dropdown appears after clicking the icon. The reset password message will be sent to the account's email.
+
 ![user_reset](/images/manageUsers/manageUsersReset.png ":size=100%")
-
-</div>
-
-<div class="description">
-
-The admin can reset the selected account's password. The reset password message will be sent to the account's email.
 
 ![user_reset](/images/manageUsers/manageUsersResetModal.png ":size=100%")
 
