@@ -1,12 +1,8 @@
 <!-- - [Home](/) -->
 
-- [Accounts](/accounts.md)
 - [Devices](/devices.md)
 - [Device Groups](/device_groups.md)
 - [Media Library](/media_library.md)
-- [Playlist](/playlist.md)
+- [Playlists](/playlists.md)
 - [Users](/users.md)
-
-- Language
-  - [Japanese](jp/)
-  - [Korean](kr/)
+- [Accounts](/accounts.md)

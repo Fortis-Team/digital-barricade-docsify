@@ -1,50 +1,40 @@
+!> Digital Barricade Web サイトの [**アカウントの管理**]タブにアクセスできるのは**ディストリビュータ**のみです。
+
 # アカウント管理
 
 <div class="description">
 
-ユーザーによって追加されたアカウントは、登録された様々なデバイスを含むデモアカウントと共に、アカウント名、使用ライセンス数、デフォルトの電子メールアドレスなどの重要な詳細と共にパネルのアカウント管理タブにリストされます。
+ディストリビュータによって追加されたアカウントと、さまざまな登録デバイスを含むデモ アカウントが、アカウント名、使用されているライセンスの数、デフォルトの電子メール アドレスなどの重要な詳細とともにパネルのアカウント管理タブにリストされます。 。
 
-ユーザーアカウントにアクセス制限はなく、デジタル・バリケードのウェブサイトで利用可能なすべてのアカウントをユーザーが管理できる。
-1デバイスは1ライセンスに制限されています。これにより、各デバイスがソフトウェアにアクセスし利用するためには、そのライセンスが必要です。
+ディストリビュータ アカウントにはアクセス制限はなく、デジタル バリケード Web サイトで利用可能なすべてのアカウントはディストリビュータによって管理できます。1 デバイスにつき 1 ライセンスに制限されます。これにより、ソフトウェアにアクセスして利用するには各デバイスにライセンスが必要になります。
 
-<!-- ![screenshot](/images/manageAccounts/manageAccountsTab.png ":size=100%") -->
-<img src="/images/manageAccounts/manageAccountsTab.png" alt="Manage Accounts Tab" style="max-width: 100%;">
+![screenshot](../images/manageAccounts/manageAccountsTab.png ":size=100%")
 
 </div>
 
-# アカウントの追加
+# アカウントを追加する
 
 <div class="description">
 
-ユーザーは、アカウント追加ボタンをクリックしたときに表示されるモーダルを設定することで、新しいアカウントを設定することができます。
+ディストリビュータは、アカウントの追加ボタンをクリックしたときに表示されるモーダルを設定することで、新しいアカウントを設定できます。
 
-<!-- ![screenshot](/images/manageAccounts/manageAccountsAdd.png ":size=100%") -->
-<img src="/images/manageAccounts/manageAccountsAdd.png" alt="Add Account" style="max-width: 100%;">
+![screenshot](../images/manageAccounts/manageAccountsAdd.png ":size=100%")
 
-ユーザーは、新しいアカウントを作成するために入力フィールドを埋める必要があります。
+ディストリビューターは、入力フィールドに記入して新しいアカウントを作成する必要があります。
 
-<!-- ![screenshot](/images/manageAccounts/manageAccountsAddModal.png ":size=100%")
-![screenshot](/images/manageAccounts/manageAccountsAddModal2.png ":size=100%") -->
-
-<img src="/images/manageAccounts/manageAccountsAddModal.png" alt="Add Account" style="max-width: 100%;">
-<img src="/images/manageAccounts/manageAccountsAddModal2.png" alt="Add Account" style="max-width: 100%;">
+![screenshot](../images/manageAccounts/manageAccountsAddModal.png ":size=100%")
+![screenshot](../images/manageAccounts/manageAccountsAddModal2.png ":size=100%")
 
 </div>
 
-# アカウント編集／ライセンスを調整
+# アカウントの編集/ライセンスの調整
 
 <div class="description">
 
-ユーザーは、ドロップダウンメニューの下にあるアカウントの編集をクリックして、各アカウントの情報を更新することができます。
+ディストリビュータは、ドロップダウン メニューの [アカウントの編集] をクリックして、各アカウントの情報を更新できます。
 
-<!-- ![screenshot](/images/manageAccounts/manageAccountsEdit.png ":size=100%")
-![screenshot](/images/manageAccounts/manageAccountsEditModal.png ":size=100%")
-![screenshot](/images/manageAccounts/manageAccountsEditModal2.png ":size=100%") -->
-<img src="/images/manageAccounts/manageAccountsEdit.png" alt="Edit Account" style="max-width: 100%;">
-<img src="/images/manageAccounts/manageAccountsEditModal.png" alt="Edit Account" style="max-width: 100%;">
-
-変更が完了したら、「変更を保存」ボタンをクリックして変更を適用することができます。
-
-<img src="/images/manageAccounts/manageAccountsEditModal2.png" alt="Edit Account" style="max-width: 100%;">
+![screenshot](../images/manageAccounts/manageAccountsEdit.png ":size=100%")
+![screenshot](../images/manageAccounts/manageAccountsEditModal.png ":size=100%")
+![screenshot](../images/manageAccounts/manageAccountsEditModal2.png ":size=100%")
 
 </div>

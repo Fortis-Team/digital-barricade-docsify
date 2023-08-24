@@ -7,6 +7,18 @@
   font-weight: 400;
 }
 
+/* #google_translate_element > div > div {
+  display: flex;
+  align-items: center;
+
+  color: #34495e;
+  font-family: Source Sans Pro,Helvetica Neue,Arial,sans-serif;
+  font-size: 15px;
+}
+
+#google_translate_element > div > div .goog-te-gadget-icon {
+  margin-bottom: 0;
+} */
 
 div.description {
   margin-bottom: 50px;

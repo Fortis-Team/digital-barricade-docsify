@@ -10,7 +10,7 @@
 
 ### Setup
 
-Install `docsify-cli `. Check [Docsify](https://docsify.js.org/#/quickstart) for more info.
+Install `docsify-cli`. Check [Docsify](https://docsify.js.org/#/quickstart) for more info.
 
 ```bash
   npm i docsify-cli -g
@@ -28,7 +28,7 @@ Run local server
 
 - `main` - production branch
 - `dev` - base for development. Merge to main ONLY when deploying to prod.
-- `{feature|fix}/{dev initial}-{task}` - branch out from `dev` then PR back to `dev` branch
+- `{feature|fix|enhancement}/{dev initial}-{task}` - branch out from `dev` then PR back to `dev` branch
 
 ## Deployment
 
