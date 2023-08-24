@@ -40,9 +40,11 @@
 <!-- ![screenshot](/images/manageAccounts/manageAccountsEdit.png ":size=100%")
 ![screenshot](/images/manageAccounts/manageAccountsEditModal.png ":size=100%")
 ![screenshot](/images/manageAccounts/manageAccountsEditModal2.png ":size=100%") -->
-
 <img src="/images/manageAccounts/manageAccountsEdit.png" alt="Edit Account" style="max-width: 100%;">
 <img src="/images/manageAccounts/manageAccountsEditModal.png" alt="Edit Account" style="max-width: 100%;">
+
+変更が完了したら、「変更を保存」ボタンをクリックして変更を適用することができます。
+
 <img src="/images/manageAccounts/manageAccountsEditModal2.png" alt="Edit Account" style="max-width: 100%;">
 
 </div>

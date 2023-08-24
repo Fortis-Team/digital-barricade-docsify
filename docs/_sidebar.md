@@ -9,3 +9,4 @@
 
 - Language
   - [Japanese](jp/)
+  - [Korean](kr/)

@@ -1,26 +1,53 @@
-<small><b>계정 사용자</b> / 그룹</small>
+# Device Group Configuration
 
-<br />
-<h1>장치 재생 목록에 대한 그룹 만들기</h1>
 <div class="description">
-    <p>
-        패널의 그룹 탭에서 사용자는 현재 여러 장치에서 재생 중인 재생 목록을 확인할 수 있습니다. 또한 특정 그룹 내의 모든 장치에서 재생 목록을 관리하고 변경할 수 있으므로 재생 중인 콘텐츠를 원활하게 제어할 수 있습니다.
-    </p>
-    <img src="/images/image19.png" alt="group_create_playlist" width="100%" height="600">
-</div>
-<div class="description">
-    <p>
-        새로운 재생 목록 그룹을 만들 때 사용자는 그룹 이름을 설정하고 사용할 재생 목록을 선택하고 마지막으로 선택한 재생 목록을 재생할 장치를 선택해야 합니다.
-    </p>
-    <img src="/images/image4.png" alt="add_new_group" width="50%" height="500">
+
+Under the Groups tab in the panel, the user can view which playlist is being played on multiple devices. The user can manage and update the playlists across all devices in a specific group, providing seamless control over the content being played. The user can view the created groups under the groups tab of the panel. Each group shows the playlist that is being played across various devices. The user has the ability to manage and update the playlists across all devices in a specific group, providing seamless control over the content being played.
+
+<!-- ![group_create_playlist](/images/groups/groupsTab.png ":size=100%") -->
+<img src="/images/groups/groupsTab.png" alt="Device Groups Tab" style="max-width: 100%;">
+
 </div>
 
-<br />
-<h1>그룹 장치 수정</h1>
+# Create Group
+
 <div class="description">
-    <p>
-        사용자는 특정 그룹과 연결된 드롭다운 메뉴에서 편집 옵션을 선택하여 그룹을 변경할 수 있습니다. 그런 다음 계속해서 그룹 이름, 그룹에 할당된 재생 목록을 수정하고 선택한 재생 목록을 재생하는 데 사용할 장치를 관리할 수 있습니다. 이를 통해 사용자는 기본 설정에 따라 그룹 설정을 사용자 정의할 수 있는 유연성을 얻을 수 있습니다.
-    </p>
-    <img src="/images/image15.png" alt="device_group" width="100%" height="600">
-    <img src="/images/image7.png" alt="device_group" width="80%" height="600">
+
+To create a new group, simply click the Add Group button in the device groups' interface.
+
+<!-- ![create_device_config](/images/groups/groupsAdd.png ":size=100%") -->
+<img src="/images/groups/groupsAdd.png" alt="Add Device Groups" style="max-width: 100%;">
+
+When creating a new group, the user must set the name of the group, select which playlist will be playing, and lastly select which devices will play the selected playlist.
+
+<!-- ![add_new_group](/images/groups/groupsAddModal.png ":size=100%") -->
+<img src="/images/groups/groupsAddModal.png" alt="Add Device Groups" style="max-width: 100%;">
+
+</div>
+
+# Edit group
+
+<div class="description">
+
+The user can modify a group by clicking on edit from the dropdown menu for the particular group they've selected. The user may now alter the name of the chosen group, and the playlist, and add more or remove devices that will play the selected playlist.
+
+<!-- ![edit_device_group](/images/groups/groupsEdit.png ":size=100%") -->
+<img src="/images/groups/groupsEdit.png" alt="Edit Device Groups" style="max-width: 100%;">
+
+When the modal appears, the user can now update the name of the chosen group, select new playlist, and add more or remove devices that will play the selected playlist.
+
+<!-- ![edit_device_group](/images/groups/groupsEditModal.png ":size=100%") -->
+<img src="/images/groups/groupsEditModal.png" alt="Edit Device Groups" style="max-width: 100%;">
+
+</div>
+
+# Delete group
+
+<div class="description">
+
+Under the edit option, the user can delete a group. To do this, select the delete option from the dropdown, which will then open a modal window to confirm the deletion of the group.
+
+<!-- ![delete_device_group](/images/groups/groupsDelete.png ":size=100%") -->
+<img src="/images/groups/groupsDelete.png" alt="Delete Device Groups" style="max-width: 100%;">
+
 </div>
