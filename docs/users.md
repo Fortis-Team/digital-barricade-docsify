@@ -38,6 +38,7 @@ The admin can rename the selected user account and update their role from admin 
 # Delete User Account
 
 <div class="description">
+
 The admin can delete the selected user account when the modal appears after clicking the delete option on the dropdown menu.
 
 ![user_delete](/images/manageUsers/manageUsersDelete.png ":size=100%")
