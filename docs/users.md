@@ -1,3 +1,5 @@
+!> Only the *Admin* has the authority to delete accounts.
+
 # Account Users Management
 
 <div class="description">
