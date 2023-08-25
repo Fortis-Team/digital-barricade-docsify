@@ -1,3 +1,5 @@
+!> Only the *Distributor* has access to the *Manage Accounts* tab in the Digital Barricade Website.
+
 # Accounts management
 
 <div class="description">

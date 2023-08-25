@@ -1,17 +1,19 @@
+!> ディストリビューターのみがDigital Barricadeウェブサイトの[アカウント管理]タブにアクセスできます。
+
 # アカウント管理
 
 <div class="description">
 
-ユーザーによって追加されたアカウントは、登録された様々なデバイスを含むデモアカウントと共に、アカウント名、使用ライセンス数、デフォルトの電子メールアドレスなどの重要な詳細と共にパネルのアカウント管理タブにリストされます。
+ユーザーによって追加されたアカウントは、様々な登録デバイスを含むデモアカウントと共に、パネルのアカウント管理タブに、アカウント名、使用ライセンス数、デフォルトメールアドレスなどの重要な詳細と共に一覧表示されます。
 
-ユーザーアカウントにアクセス制限はなく、デジタルバリケードのウェブサイトで利用可能なすべてのアカウントをユーザーが管理できます。
-1デバイスは1ライセンスに制限されています。これにより、各デバイスはソフトウェアにアクセスし、利用するためのライセンスを持っている必要があります。
+ユーザーアカウントにアクセス制限はなく、digital barricadeウェブサイトで利用可能なすべてのアカウントをユーザーが管理できます。
+1デバイスは1ライセンスに制限されています。これは、各デバイスがソフトウェアにアクセスし、利用するためにライセンスを持っていなければならないことを保証します。
 
 ![screenshot](../images/manageAccounts/manageAccountsTab.png ":size=100%")
 
 </div>
 
-# アカウントを追加する
+# アカウントの追加
 
 <div class="description">
 
@@ -19,7 +21,7 @@
 
 ![screenshot](../images/manageAccounts/manageAccountsAdd.png ":size=100%")
 
-ユーザーは、新しいアカウントを作成するために入力フィールドを埋める必要があります。
+ユーザは, 新規アカウントを作成するために入力フィールドに入力する必要がある。
 
 ![screenshot](../images/manageAccounts/manageAccountsAddModal.png ":size=100%")
 ![screenshot](../images/manageAccounts/manageAccountsAddModal2.png ":size=100%")
@@ -30,7 +32,7 @@
 
 <div class="description">
 
-ユーザーは、ドロップダウンメニューの下にあるアカウントの編集をクリックして、各アカウントの情報を更新することができます。
+ドロップダウンメニューの下にあるアカウントの編集をクリックすることで、各アカウントの情報を更新することができます。
 
 ![screenshot](../images/manageAccounts/manageAccountsEdit.png ":size=100%")
 ![screenshot](../images/manageAccounts/manageAccountsEditModal.png ":size=100%")
