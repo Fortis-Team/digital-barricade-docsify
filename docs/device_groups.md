@@ -8,7 +8,7 @@ Under the Groups tab in the panel, the user can view which playlist is being pla
 
 </div>
 
-# Create a Group
+# Create Group
 
 <div class="description">
 
@@ -22,7 +22,7 @@ When creating a new group, the user must set the name of the group, select which
 
 </div>
 
-# Edit group
+# Edit Group
 
 <div class="description">
 
@@ -36,7 +36,7 @@ When the modal appears, the user can now update the name of the chosen group, se
 
 </div>
 
-# Delete group
+# Delete Group
 
 <div class="description">
 

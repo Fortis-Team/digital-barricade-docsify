@@ -8,7 +8,7 @@ The Digital Barricade Website has a panel on its left side, allowing the user to
 
 </div>
 
-# Edit device
+# Edit Device
 
 <div class="description">
 
@@ -30,7 +30,7 @@ In addition to the mentioned functionalities, the user also has the capability t
 
 </div>
 
-# Reboot a device
+# Reboot a Device
 
 <div class="description">
 
