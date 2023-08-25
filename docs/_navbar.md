@@ -1,2 +1,5 @@
+- Translations
+  - [:us: English](/)
+  - [:jp: Japanese](jp/)
+  - [:kr: Korean](kr/)
 - [Go to site](https://access.digitalbarricade.com/)
-<!-- - <div id="google_translate_element"></div> -->
