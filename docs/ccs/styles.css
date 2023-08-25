@@ -3,6 +3,20 @@
   --theme-color: rgb(16, 180, 245);
 }
 
+.app-nav li ul li {
+  margin: 8px;
+}
+.app-nav li ul {
+  width: 100px;
+  overflow: visible;
+}
+.app-nav li ul li a{
+  display: block;
+}
+.app-nav li ul li a img{
+  margin: 0 8px 0 0;
+}
+
 .sidebar>h1 {
   font-weight: 400;
 }

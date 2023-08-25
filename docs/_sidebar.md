@@ -6,7 +6,3 @@
 - [Playlists](/playlists.md)
 - [Users](/users.md)
 - [Accounts](/accounts.md)
-
-- Language
-  - [Japanese](jp/)
-  - [Korean](kr/)
