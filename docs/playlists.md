@@ -62,13 +62,13 @@ Then, add/save the newly created playlist by clicking the Save button.
 
 <div class="description">
 
-By choosing the Edit option the User will be taken to this modal window where they will be able to change the playlist’s name, display size, and playing mode and edit individual items like changing the time for time-based playlist or changing the duration for duration-based playlist.
+By choosing the Edit option the User will be taken to this modal window where they will be able to change the playlist’s name, display size, playing mode, edit individual items like changing the time for time-based playlist or changing the duration for duration-based playlist by clicking the pencil icon, adding a new item by clicking the Add an item button, and indicate whether the playlist is active or not by clicking the on/off active switch.
 
 ![duration](/images/image408.png ":size=100%")
 
-Click the Save Changes button to save the playlist's changes. This will cause the playlist on whichever device it is to automatically update.
+Click the Update button to save the playlist's changes. This will cause the playlist on whichever device it is to automatically update.
 
-![duration](/images/image409.png ":size=100%")
+![duration](/images/playlist/playlistEditModal.png ":size=100%")
 
 </div>
 
