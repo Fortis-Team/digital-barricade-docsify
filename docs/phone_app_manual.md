@@ -6,24 +6,54 @@
 </div>
 
 # Sign in
-Using the login credentials given by your distributor or account admin, sign-in to your mobile app. Account invitation is normally emailed to you where you can set you own password.
+Using the login credentials given by your distributor or account admin, sign-in to your mobile app. Account invitation is normally emailed to you where you can set your own password.
+
+Enter the registered email address, your password then tap "Sign in" button.
 
 ![phone_app](/phoneApp_images/phone_app/signIn.png ":size=55%")
 
 # Set up a Device
 “Searching for devices” message appears. On first use, device registration is required. Tap “+” button in the botton right corner.
 
+Tap the '+' button located in the bottom right corner.  
+
+
+
 ![phone_app](/phoneApp_images/phone_app/deviceSetup.png ":size=55%")
+
+The app will then search for the device, and the 'DBAP0001' network will appear.
+
 ![phone_app](/phoneApp_images/phone_app/deviceSetup2.png ":size=55%")
+
+Tap on the “DBAP0001” network, and you'll be able to see the connected device listed in the Devices list.
+
 ![phone_app](/phoneApp_images/phone_app/deviceSetup3.png ":size=55%")
 
+__NOTE: It may take some time for the device to appear and it may take some time for the device to appear in the Devices list.__
+
 # Setting up the WiFi Credentials
-Configure the device WiFi by checking/selecting the device you have connected to using Hotspot in the Devices list. 
+Configure the device WiFi by checking/selecting the device you have connected to using Hotspot in the Devices list.
+
+Check/select the device you have connected to using Hotspot in the Devices list.
+Once you've selected the appropriate device, tap the first button at the bottom left.
+
+__NOTE: On the first registration to the device, the unregistered message appears.__
 
 ![phone_app](/phoneApp_images/phone_app/setupWifi.png ":size=55%")
-![phone_app](/phoneApp_images/phone_app/timezone.png ":size=68%")
 
-![phone_app](/phoneApp_images/phone_app/scanQr.png ":size=63%")
+On the first connection to the device, you have to select your timezone.
+
+__NOTE: Setting the time zone is only done the first time you register devices.__
+
+![phone_app](/phoneApp_images/phone_app/timezone.png ":size=55%")
+
+Tap “SCAN QR-CODE” or “LOAD FROM IMAGE” button to scan the QR code of the WiFi you want the device to connect to.
+
+Check “Option 1” or “Option 2” below to know how to scan the QR code.
+
+![phone_app](/phoneApp_images/phone_app/scanQr.png ":size=55%")
+
+__NOTE: You can change your timezone by clicking the pencil icon button at first registration.__
 
 ## Option 1 : Scan the WiFi QR code in Camera
 
