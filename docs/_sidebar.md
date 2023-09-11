@@ -6,6 +6,4 @@
 - [Playlists](/playlists.md)
 - [Users](/users.md)
 - [Accounts](/accounts.md)
-
-- Phone App Manual
-    - [Phone App Manual](/phone_app_manual.md)
+- [Phone App Manual](/phone_app_manual.md)
