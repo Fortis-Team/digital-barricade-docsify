@@ -4,3 +4,4 @@
 - [プレイリスト](/jp/playlists.md)
 - [ユーザー](/jp/users.md)
 - [アカウント](/jp/accounts.md)
+<!-- - [スマホアプリマニュアル](/jp/phone_app_manual.md) -->

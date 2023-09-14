@@ -13,19 +13,19 @@ Enter the registered email address, your password then tap "Sign in" button.
 ![phone_app](/phoneApp_images/phone_app/signIn.png ":size=55%")
 
 # Set up a Device
-“Searching for devices” message appears. On first use, device registration is required. Tap “+” button in the botton right corner.
+The message "Searching for devices" will appear. On first use, device registration is required. Tap "+" button in the bottom right corner.
+
+Tap "+" button at the bottom right.
 
 __NOTE:__ It may take some time for the device to appear and it may take some time for the device to appear in the Devices list.
 
-Tap “+” button at the bottom right.
-
 ![phone_app](/phoneApp_images/phone_app/deviceSetup.png ":size=55%")
 
-The app will then search for the device, and the 'DBAP0001' network will show.
+The app will then search for the device, and the "DBAP0001" network will show.
 
 ![phone_app](/phoneApp_images/phone_app/deviceSetup2.png ":size=55%")
 
-Tap on the “DBAP0001” network, and you'll be able to see the connected device listed in the Devices list.
+Tap on the "DBAP0001" network, and you'll be able to see the connected device listed in the Devices list.
 
 ![phone_app](/phoneApp_images/phone_app/deviceSetup3.png ":size=55%")
 
@@ -46,7 +46,7 @@ __NOTE:__ Setting the time zone is only done the first time you register devices
 
 ![phone_app](/phoneApp_images/phone_app/timezone.png ":size=55%")
 
-Tap “SCAN QR-CODE” or “LOAD FROM IMAGE” button to scan the QR code of the WiFi you want the device to connect to. Check “Option 1” or “Option 2” below to know how to scan the QR code.
+Tap "SCAN QR-CODE" or "LOAD FROM IMAGE" button to scan the QR code of the WiFi you want the device to connect to. Check "Option 1" or "Option 2" below to know how to scan the QR code.
 
 __NOTE:__ You can change your timezone by clicking the pencil icon button at first registration.
 
@@ -56,7 +56,7 @@ __NOTE:__ You can change your timezone by clicking the pencil icon button at fir
 
 Press the Scan QR-Code button which will then let you scan the WiFi QR Code.
 
-Tap the 'SCAN QR-CODE' button to scan a QR code using the camera, which will then take WiFi credentials. Finally, tap the 'OK' button.
+Tap the "SCAN QR-CODE" button to scan a QR code using the camera, which will then take WiFi credentials. Finally, tap the "OK" button.
 
 ![phone_app](/phoneApp_images/phone_app/option1.png ":size=55%")
 
@@ -64,7 +64,7 @@ Tap the 'SCAN QR-CODE' button to scan a QR code using the camera, which will the
 
 If you have an image of the WiFi QR Code in your phone gallery, the app will scan the image.
 
-Tap the 'LOAD FROM IMAGE' button to scan a QR code from the phone gallery which will then take the WiFi credentials. Finally, tap the 'OK' button.
+Tap the "LOAD FROM IMAGE" button to scan a QR code from the phone gallery which will then take the WiFi credentials. Finally, tap the "OK" button.
 
 ![phone_app](/phoneApp_images/phone_app/option2.png ":size=55%")
 
@@ -121,7 +121,7 @@ Press “Mic” button and hold it during speak the language in the selected Spe
 
 ![phone_app](/phoneApp_images/phone_app/micButton.png ":size=55%")
 
-Translated language in the selected Translation language is shown in the Preview screen and Text field. If you want to invert the text, turn on “Reverse” button. Send the text to the device(s). 
+Translated language in the selected Translation language is shown in the Preview screen and Text field. If you want to invert the text, turn on the "Reverse" button. Send the text to the device(s). 
 
 Then, can see the text on the screen of Digital LED Barricade. Or can display the text with another text style, size, color, and background.
 
@@ -133,7 +133,7 @@ Tap “Text Style, Size and Color”.
 
 ![phone_app](/phoneApp_images/phone_app/tapStyle.png ":size=55%")
 
- Select Font size. Select Font style (You can select both style). Select Font color in 6 options. Then go back to Display Preview.
+Select Font size. Select Font style (You can select both style). Select Font color in 6 options. Then go back to Display Preview.
 
 ![phone_app](/phoneApp_images/phone_app/stylePreview.png ":size=55%")
 
@@ -144,11 +144,11 @@ Send the content to the device(s).
 ### 3. Change Background
 > Background color
 
-Tap “Background”.
+Tap "Background".
 
 ![phone_app](/phoneApp_images/phone_app/tapBackground.png ":size=55%")
 
- Check “Color” then select one background color in 6 options. Go back to Display Preview.
+Check the "Color" from the background choices, then select one background color in 6 options. Go back to Display Preview.
 
 ![phone_app](/phoneApp_images/phone_app/bgColorPreview.png ":size=55%")
 
@@ -158,7 +158,7 @@ Send the content to the device(s).
 
 > Background image
 
-Check “Image”. Tap “Select an Image”, then choose an image you want to display from the phone gallery.
+Check the "Image" from the background choices, then tap "Select an Image". Choose an image you want to display from the phone gallery.
 
 ![phone_app](/phoneApp_images/phone_app/bgImagePreview.png ":size=55%")
 
@@ -166,15 +166,15 @@ Can check the image you choose. Go back to Display Preview.
 
 ![phone_app](/phoneApp_images/phone_app/bgImagePreview2.png ":size=55%")
 
-Can check the background image is loaded. If you want to invert the image (and text), turn on “Reverse” button. Send the content to the device(s).
+Can check the background image is loaded. If you want to invert the image, turn on the "Reverse" button. Send the content to the device(s).
 
-__NOTE:__ You can input your voice to text. If you want to delete the text on the image, tap the “Mic” button briefly. And send the content to the dievice(s) again.
+__NOTE:__ You can input your voice to text. If you want to delete the text on the image, tap the "Mic" button briefly. And send the content to the device(s) again.
 
 ![phone_app](/phoneApp_images/phone_app/bgImagePreview3.png ":size=55%")
 
 > Background video
 
-Check “Video”. Tap “Select a Video”, then choose a video you want to display from the phone gallery.
+Check the "Video" from the backgorund choices, then tap "Select a Video". Choose a video you want to display from the phone gallery.
 
 ![phone_app](/phoneApp_images/phone_app/bgVideoPreview.png ":size=55%")
 
@@ -184,7 +184,7 @@ Can check the video you choose. Go back to Display Preview.
 
 Can check the background video is loaded. Videos cannot be reversed. Send the content to the device(s).
 
-__NOTE:__  You can input your voice to text. If you want to delete the text on the video, tap the “Mic” button briefly.
+__NOTE:__  You can input your voice to text. If you want to delete the text on the video, tap the "Mic" button briefly.
 
 ![phone_app](/phoneApp_images/phone_app/bgVideoPreview3.png ":size=55%")
 
@@ -199,13 +199,13 @@ __CAUTION__ You should reset the WiFi network on the currently connected WiFi ne
 
 ![phone_app](/phoneApp_images/phone_app/resetWifi.png ":size=55%")
 
-When the confirmation appears, tap “YES”. Proceed to reboot the device automatically and the device(s) is disappeared from the Device list screen. (The device reboots automatically.)
+When the confirmation appears, tap "YES". Proceed to reboot the device automatically and the device(s) is disappeared from the Device list screen. (The device reboots automatically.)
 
 ![phone_app](/phoneApp_images/phone_app/resetWifiModal.png ":size=55%")
 
 When the device reboots, the screen will show the last content you sent. 
 
- Tap “+” button at the bottom right. Repeat “Set up a Device” procedure and repeat “Setting up the WiFi Credentials” procedure.
+Tap "+" button at the bottom right. Repeat "Set up a Device" procedure and repeat "Setting up the WiFi Credentials" procedure.
 
  __NOTE:__ You don’t need to set the timezone from the second setup.
 
@@ -213,7 +213,7 @@ When the device reboots, the screen will show the last content you sent.
 
 # Change the device name
 
-Tap the gear icon.
+Tap the "gear" icon.
 
 ![phone_app](/phoneApp_images/phone_app/renameDevice.png ":size=55%")
 
@@ -221,17 +221,17 @@ Tap the "Device Name".
 
 ![phone_app](/phoneApp_images/phone_app/renameDevice2.png ":size=55%")
 
- Input a new name. Then tap “Ok” button.
+Input a new name. Then tap "OK" button.
 
 ![phone_app](/phoneApp_images/phone_app/renameDevice3.png ":size=55%")
 
-When the confirmation appears, tap “YES”.
+When the confirmation appears, tap "YES".
 
 ![phone_app](/phoneApp_images/phone_app/renameDevice4.png ":size=55%")
 
 # Bluetooth feature
 
-Tap the gear icon.
+Tap the "gear" icon.
 
 ![phone_app](/phoneApp_images/phone_app/bluetoothFeature.png ":size=55%")
 
@@ -259,6 +259,6 @@ To unpair the connected device. Tap the device from the "Saved Devices/Previousl
 
 ![phone_app](/phoneApp_images/phone_app/bluetoothFeature7.png ":size=55%")
 
-Select the "Unpair" and it will automatically unpair the device. 
+Tap the "Unpair" button to unpair the device.
 
 ![phone_app](/phoneApp_images/phone_app/bluetoothFeature8.png ":size=55%")
