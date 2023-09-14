@@ -2,7 +2,8 @@
   <!-- - [:us: English](/)
   - [:jp: Japanese](jp/)
   - [:kr: Korean](kr/) -->
-  - <button onclick="switchLanguage('en')">English</button>
-  - <button onclick="switchLanguage('jp')">Japanese</button>
-  - <button onclick="switchLanguage('kr')">Korean</button>
+  - <a href="javascript:void(0);" onclick="switchLanguage('en')" class="language-button">:us:English</a>
+  - <a href="javascript:void(0);" onclick="switchLanguage('jp')" class="language-button">:jp:Japanese</a>
+  - <a href="javascript:void(0);" onclick="switchLanguage('kr')" class="language-button">:kr:Korean</a>
+
 - [Go to site](https://access.digitalbarricade.com/)
