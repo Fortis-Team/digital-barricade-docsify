@@ -63,6 +63,7 @@
     <!-- plugins -->
     <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
     <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
+
     <!-- <script type="text/javascript">
       function googleTranslateElementInit() {
         new google.translate.TranslateElement(
@@ -81,5 +82,29 @@
       src="https://translate.google.com/translate_a/element.js?
 		cb=googleTranslateElementInit"
     ></script> -->
+
+    <!-- handling of language switching -->
+    <script type="text/javascript">
+      function switchLanguage(lang) {
+        const location = window.location.href;
+        const regex = /\/(jp|kr)\//;
+        let replaceWith = "";
+
+        if (regex.test(location)) {
+          if (lang !== "en") {
+            replaceWith = "/" + lang + "/";
+          }
+
+          const newLocation = location.replace(/\/(jp|kr)\//, replaceWith);
+          return (window.location = newLocation);
+        }
+
+        if (lang !== "en") {
+          replaceWith = "/#" + lang + "/";
+          const newLocation = location.replace(/\/#\//, replaceWith);
+          return (window.location = newLocation);
+        }
+      }
+    </script>
   </body>
 </html>
