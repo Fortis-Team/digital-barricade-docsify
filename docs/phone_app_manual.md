@@ -83,7 +83,7 @@ __NOTE:__ It will take 40-50 seconds for the device(s) to appear in the Device l
 ![phone_app](/phoneApp_images/phone_app/wifiConfig.png ":size=55%")
 
 # Control the Content
-Once the devices are in the Devices list, select the device(s) you want to configure then you can control the content of the display by selecting.
+Once the devices are in the Devices list, select the device(s) you want to configure then you can control the content of the display by selecting the second icon at the bottom.
 
 Check the device(s) you want to control then tap the second button at the bottom.
 
@@ -97,7 +97,7 @@ The interface of device preview contains the following:
 - Text field
 - Can select background color for Digital LED Barricade screens
 - Can change the screen resolution and location
-__CAUTION__ you must ask the manufacturer before you change it. The manufacturer are not responsible for errors made without prior inquiry.
+__CAUTION:__ you must ask the manufacturer before you change it. The manufacturer are not responsible for errors made without prior inquiry.
 - Can select the text style, size and color
 - Select speak and translation language
 - Prevent unnecessary touches on smartphone screens
@@ -207,7 +207,7 @@ When the device reboots, the screen will show the last content you sent.
 
 Tap "+" button at the bottom right. Repeat "Set up a Device" procedure and repeat "Setting up the WiFi Credentials" procedure.
 
- __NOTE:__ You don’t need to set the timezone from the second setup.
+__NOTE:__ You don’t need to set the timezone from the second setup.
 
 ![phone_app](/phoneApp_images/phone_app/resetWifiList.png ":size=55%")
 

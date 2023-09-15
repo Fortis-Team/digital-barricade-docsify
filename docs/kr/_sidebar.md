@@ -4,3 +4,4 @@
 - [재생목록](/kr/playlists.md)
 - [사용자](/kr/users.md)
 - [계정](/kr/accounts.md)
+- [전화 앱 매뉴얼](/kr/phone_app_manual.md)
