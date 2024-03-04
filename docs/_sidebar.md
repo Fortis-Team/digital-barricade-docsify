@@ -7,4 +7,4 @@
 - [Users](/users.md)
 - [Accounts](/accounts.md)
 - [Phone App Manual](/phone_app_manual.md)
-- [Device Recovery](/device_recovery.md)
+  - [Device Recovery](/device_recovery.md)
