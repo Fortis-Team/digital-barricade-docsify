@@ -5,3 +5,4 @@
 - [ユーザー](/jp/users.md)
 - [アカウント](/jp/accounts.md)
 - [スマホアプリマニュアル](/jp/phone_app_manual.md)
+- [デバイスの回復](/jp/device_recovery.md)
