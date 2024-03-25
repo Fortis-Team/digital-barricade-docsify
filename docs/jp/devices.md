@@ -20,8 +20,7 @@ Digital Barricadeウェブサイトには左側にパネルがあり、登録さ
 
 ![edit_device](../images/devices/devicesEditModal.png ":size=100%")
 
-![edit_device](../images/devices/devicesTimeZone.png ":size=40%")
-![edit_device](../images/devices/devicesPlaylist.png ":size=40%")
+![edit_device](../images/devices/devicesEditModal2.png ":size=100%")
 
 前述の機能に加えて、ユーザーはデバイスの名前を変更したり、デバイスに関する重要な情報にアクセスしたりすることもできる。この機能により、ユーザーはウェブサイトに登録されている様々なデバイスに、ユニークで認識しやすい名前を割り当てることができる。
 
@@ -41,5 +40,17 @@ Digital Barricadeウェブサイトには左側にパネルがあり、登録さ
 再起動オプションをクリックすると、デバイスの再起動プロセスを確認するためのモーダルが表示されます。
 
 ![reboot_device](../images/devices/devicesRebootModal.png ":size=100%")
+
+# デバイスの登録解除
+
+<div class="description">
+
+ドロップダウンメニューの登録解除オプションをクリックすると、そのデバイスは当社のシステムからリンク解除され、（再登録しない限り）今後のアップデートを受け取ることができなくなります。
+
+![reboot_device](../images/devices/devicesUnregister.png ":size=100%")
+
+その結果、そのデバイスは、当社が将来リリースする可能性のあるさらなるアップデートや機能拡張を受けられなくなります。ただし、後日デバイスを再登録するか、当社のシステムに再接続することを選択した場合、デバイスは再びアップデートを受ける資格を有し、当社が提供する新機能や改良の恩恵を受けることができます。
+
+![reboot_device](../images/devices/devicesUnregisterModal.png ":size=100%")
 
 </div>

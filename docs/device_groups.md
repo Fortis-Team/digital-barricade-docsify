@@ -2,7 +2,7 @@
 
 <div class="description">
 
-Under the Groups tab in the panel, the user can view which playlist is being played on multiple devices. The user can manage and update the playlists across all devices in a specific group, providing seamless control over the content being played. The user can view the created groups under the groups tab of the panel. Each group shows the playlist that is being played across various devices. The user has the ability to manage and update the playlists across all devices in a specific group, providing seamless control over the content being played.
+Under the Groups tab in the panel, the user can view the list of devices that can be added to a group. This page is responsible for the assignment of devices onto layouts in normal mode. This feature ensures seamless management of devices within layouts, optimizing operational workflows.
 
 ![group_create_playlist](/images/groups/groupsTab.png ":size=100%")
 
