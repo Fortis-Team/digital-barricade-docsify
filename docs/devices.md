@@ -20,8 +20,7 @@ Once the user clicks on edit in the dropdown menu, a modal will appear, presenti
 
 ![edit_device](/images/devices/devicesEditModal.png ":size=100%")
 
-![edit_device](/images/devices/devicesTimeZone.png ":size=40%")
-![edit_device](/images/devices/devicesPlaylist.png ":size=40%")
+![edit_device](/images/devices/devicesEditModal2.png ":size=100%")
 
 In addition to the mentioned functionalities, the user also has the capability to rename the device and access crucial information pertaining to it. This feature allows the user to assign unique and recognizable names to different devices registered in the website.
 
@@ -41,5 +40,17 @@ Upon clicking the reboot option in the dropdown menu, the device will undergo a 
 Once the reboot option is clicked, it will display a modal to confirm the reboot process for the device.
 
 ![reboot_device](/images/devices/devicesRebootModal.png ":size=100%")
+
+# Unregister a Device
+
+<div class="description">
+
+Upon clicking the unregister option in the dropdown menu, the device will be unlinked from our system and won't receive any future updates (unless re-registered),' it means that the device will no longer be connected or associated with our system.
+
+![reboot_device](/images/devices/devicesUnregister.png ":size=100%")
+
+As a result, it will not receive any further updates or enhancements that we may release in the future. However, if you choose to re-register the device or reconnect it to our system at a later time, it will once again become eligible to receive updates and benefit from any new features or improvements we offer.
+
+![reboot_device](/images/devices/devicesUnregisterModal.png ":size=100%")
 
 </div>

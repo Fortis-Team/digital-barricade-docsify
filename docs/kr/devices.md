@@ -20,8 +20,7 @@
 
 ![edit_device](../images/devices/devicesEditModal.png ":size=100%")
 
-![edit_device](../images/devices/devicesTimeZone.png ":size=40%")
-![edit_device](../images/devices/devicesPlaylist.png ":size=40%")
+![edit_device](../images/devices/devicesEditModal2.png ":size=100%")
 
 언급 된 기능 외에도 사용자는 장치 이름을 변경하고 장치와 관련된 중요한 정보에 액세스 할 수 있습니다. 이 기능을 통해 사용자는 웹사이트에 등록된 여러 장치에 고유하고 알아볼 수 있는 이름을 지정할 수 있습니다.
 
@@ -41,5 +40,17 @@
 재부팅 옵션을 클릭하면 장치의 재부팅 프로세스를 확인하는 모달이 표시됩니다.
 
 ![reboot_device](../images/devices/devicesRebootModal.png ":size=100%")
+
+# 디바이스 등록 취소
+
+<div class="description">
+
+드롭다운 메뉴에서 등록 취소 옵션을 클릭하면 해당 장치는 당사 시스템에서 연결이 해제되며 향후 업데이트를 받지 못합니다(재등록하지 않는 한)'라는 문구가 표시되며, 이는 해당 장치가 더 이상 당사 시스템과 연결되거나 연결되지 않음을 의미합니다.
+
+![reboot_device](../images/devices/devicesUnregister.png ":size=100%")
+
+따라서 향후에 출시될 수 있는 추가 업데이트나 개선 사항을 받을 수 없습니다. 그러나 나중에 장치를 다시 등록하거나 시스템에 다시 연결하면 다시 한 번 업데이트를 받을 수 있는 자격이 부여되며, 새로운 기능이나 개선 사항의 혜택을 받을 수 있습니다.
+
+![reboot_device](../images/devices/devicesUnregisterModal.png ":size=100%")
 
 </div>

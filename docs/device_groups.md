@@ -2,7 +2,7 @@
 
 <div class="description">
 
-Under the Groups tab in the panel, the user can view which playlist is being played on multiple devices. The user can manage and update the playlists across all devices in a specific group, providing seamless control over the content being played. The user can view the created groups under the groups tab of the panel. Each group shows the playlist that is being played across various devices. The user has the ability to manage and update the playlists across all devices in a specific group, providing seamless control over the content being played.
+Under the Device Groups tab in the panel, the user can view the list of devices that can be added to a group. This page is responsible for the assignment of devices onto layouts in normal mode. This feature ensures seamless management of devices within layouts, optimizing operational workflows.
 
 ![group_create_playlist](/images/groups/groupsTab.png ":size=100%")
 
@@ -16,7 +16,7 @@ To create a new group, simply click the Add Group button in the device groups' i
 
 ![create_device_config](/images/groups/groupsAdd.png ":size=100%")
 
-When creating a new group, the user must set the name of the group, select which playlist will be playing, and lastly select which devices will play the selected playlist.
+When creating a new group, the user must set the name of the group and select the available devices. A device is limited to one group only. A device will be removed from its prior group when it is added to a new group.
 
 ![add_new_group](/images/groups/groupsAddModal.png ":size=100%")
 
@@ -26,11 +26,11 @@ When creating a new group, the user must set the name of the group, select which
 
 <div class="description">
 
-The user can modify a group by clicking on edit from the dropdown menu for the particular group they've selected. The user may now alter the name of the chosen group, and the playlist, and add more or remove devices that will play the selected playlist.
+The user can modify a group by clicking the edit button from the dropdown menu for the particular group they've selected.
 
 ![edit_device_group](/images/groups/groupsEdit.png ":size=100%")
 
-When the modal appears, the user can now update the name of the chosen group, select new playlist, and add more or remove devices that will play the selected playlist.
+When the modal appears, the user may now change the name of the chosen group, remove the previously added device or add a new device.
 
 ![edit_device_group](/images/groups/groupsEditModal.png ":size=100%")
 

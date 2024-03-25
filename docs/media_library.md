@@ -2,7 +2,7 @@
 
 <div class="description">
 
-The User can access the uploaded media, which comprises both images and videos, through the media library tab in the panel. The media that has been uploaded is utilized for creating a new playlist.
+The user can access the uploaded media, which comprises both images and videos, through the media library tab in the panel. The media that has been uploaded is utilized for creating a new playlist.
 
 ![uploaded_media_assets](/images/image0502.png ":size=100%")
 
