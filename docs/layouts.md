@@ -132,7 +132,6 @@ Whenever changes are made, a yellow badge will appear on the Publish button. By 
 # Delete Layout
 
 <div class="description">
-
 To delete a layout, choose a layout then click the 3-dot icon and press the delete option from the dropdown menu.
 
 ![reboot_device](/images/layouts/layoutsDeleteLayout.png ":size=100%")
@@ -140,5 +139,4 @@ To delete a layout, choose a layout then click the 3-dot icon and press the dele
 When the modal appears, press the continue delete button.
 
 ![reboot_device](/images/layouts/layoutsDeleteLayoutModal.png ":size=100%")
-
 </div>
