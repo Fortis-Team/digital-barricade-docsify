@@ -2,6 +2,7 @@
 - [デバイスグループ](/jp/device_groups.md)
 - [メディアライブラリ](/jp/media_library.md)
 - [プレイリスト](/jp/playlists.md)
+- [レイアウト](/jp/layouts.md)
 - [ユーザー](/jp/users.md)
 - [アカウント](/jp/accounts.md)
 - [スマホアプリマニュアル](/jp/phone_app_manual.md)
