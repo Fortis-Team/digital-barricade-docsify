@@ -23,7 +23,7 @@
     - [Edit Layout Settings](/layouts.md?id=edit-layout-settings)
     - [Manage Layers and Devices](/layouts.md?id=layers-and-devices)
         - [Layers](/layouts.md?id=layers)
-        - [Devices in Normal Mode](/layouts.md?id=devices-in-normal-mode)
+        - [Devices in Normal Mode](/layouts.md?id=devices-in-normal-modewithout-sync)
         - [Devices in Areas(Sync) Mode](/layouts.md?id=devices-in-areas-modewith-sync)
     - [Publish to Deploy Content](/layouts.md?id=publish-to-deploy-content)
     - [Delete Layout](/layouts.md?id=delete-layout)
