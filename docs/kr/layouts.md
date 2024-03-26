@@ -1,113 +1,149 @@
-# Layouts Manager
+# 레이아웃 관리자
 
 <div class="description">
 
-The user can create a layout which can play the uploaded media from the media library, insert text, or display the playlists. 
+레이아웃 관리 페이지는 디지털 미디어를 편집, 배열 및 구성하여 배포할 준비가 된 레이아웃으로 만들 수 있도록 설계되었습니다. 여기에는 텍스트, 이미지, 동영상, 재생 목록 등 다양한 미디어 유형을 처리할 수 있는 캔버스가 제공됩니다. 이러한 미디어는 두 가지 레이아웃 유형 중 하나로 구성할 수 있습니다: 디바이스에 전체 레이아웃을 표시하는 일반 모드와 주로 동기화된 디스플레이를 위해 미리 정의된 영역 내에 미디어를 배치하는 영역 모드가 있습니다. 그런 다음 레이아웃을 특정 디바이스 또는 디바이스 그룹에 게시할 수 있습니다.
 
 ![device_list](../images/layouts/layoutsTab.png ":size=100%")
 
 </div>
 
-# Add Layout
+# 레이아웃 추가
 
 <div class="description">
 
-To add a new layout, simply click the add layout button and a modal will appear.
+새 레이아웃을 추가하려면 레이아웃 추가 버튼을 클릭하기만 하면 모달이 나타납니다.
 
 ![add_modal](../images/layouts/layoutsAdd.png ":size=100%")
 
-Supply the desired name of the layout. Choose a layout type between Normal and Areas. 
+원하는 레이아웃의 이름을 입력합니다. 일반과 영역 중에서 레이아웃 유형을 선택합니다. 레이아웃 유형 선택은 레이아웃을 만드는 동안에만 이루어지며 편집 모드에서는 변경할 수 없습니다.
 
 ![add_new_modal](../images/layouts/layoutsAddModal1.png ":size=100%")
 
-Choose any dimension presets available from the dropdown. Before pressing the save button, set the width and height of the layout.
+드롭다운에서 사용 가능한 치수 사전 설정을 선택합니다. 저장 버튼을 누르기 전에 레이아웃의 너비와 높이를 설정합니다.
 
 ![add_new_modal](../images/layouts/layoutsAddModal2.png ":size=100%")
 
 </div>
 
-# Edit Layout Settings
+# 레이아웃 설정 편집
 
 <div class="description">
 
-To configure a layout, press the edit layout settings option under the dropdown.
+레이아웃을 구성하려면 드롭다운 아래의 레이아웃 설정 편집 옵션을 누릅니다.
 
 ![edit_device](../images/layouts/layoutsEdit.png ":size=100%")
 
-Once the modal appears, configure and update any of the fields available except for the layout type as it remains to default based on the layout type chosen when the layout is created.
+모달이 나타나면 레이아웃을 만들 때 선택한 레이아웃 유형에 따라 기본값으로 유지되므로 레이아웃 유형을 제외한 사용 가능한 필드를 구성하고 업데이트합니다.
 
 ![edit_device](../images/layouts/layoutsEditModal1.png ":size=100%")
 ![edit_device](../images/layouts/layoutsEditModal2.png ":size=100%")
 
 </div>
 
-# Layers and Devices
+# 레이어 및 디바이스
 
 <div class="description">
 
-To navigate to the created layout and add layers, devices, and device groups, press the layers and devices option of the selected layout.
+생성한 레이아웃으로 이동하여 레이어, 디바이스 및 디바이스 그룹을 추가하려면 선택한 레이아웃의 레이어 및 디바이스 옵션을 누릅니다.
 
 ![reboot_device](../images/layouts/layoutsLayersDevices.png ":size=100%")
 
-The default active tab is the Layers which consists of text, media, and playlist layers.
-
-![reboot_device](../images/layouts/layoutsLayersDevicesTab.png ":size=100%")
-
-To add devices or device groups, navigate to the Devices tab.
-
-![reboot_device](../images/layouts/layoutsLayersDevicesTab2.png ":size=100%")
-
-To add a new text layer, press the text option under the dropdown after pressing the add new layer button.
-
-![reboot_device](../images/layouts/layoutsLayersDeviceAddText.png ":size=100%")
-
-When the modal appears, provide the name of the layer. The text can be translated to a different language but the options are only limited. The user can set the text if it is active or not, in reverse or not. To set the initial position of the layer, set the value of x and y. To change the size of the layer, change the default value of width and height. Select the desired, font size, font style, font color, and background color of the text layer. 
-
-![reboot_device](../images/layouts/layoutsLayersDeviceAddModalText.png ":size=100%")
-
-To add a new media layer, press the image/video option under the dropdown after pressing the add new layer button.
-
-![reboot_device](../images/layouts/layoutsLayersDeviceAddMedia.png ":size=100%")
-
-The uploaded medias in the media library will be shown in the modal when the user adds a media layer.
-
-![reboot_device](../images/layouts/layoutsLayersDeviceAddModalMedia.png ":size=100%")
-
-To add a new playlist layer, press the playlist option under the dropdown after pressing the add new layer button.
-
-![reboot_device](../images/layouts/layoutsLayersDeviceAddPlaylist.png ":size=100%")
-
-The created playlist from the playlist page can be used in the layout to play multiple medias combined with image and text.
-
-![reboot_device](../images/layouts/layoutsLayersDeviceAddModalPlaylist.png ":size=100%")
-
-To edit a layer, click the 3-dot icon and an edit option will be shown. 
-
-![reboot_device](../images/layouts/layoutsLayersDeviceEditLayer.png ":size=100%")
-
-The layers can be configured using the given options on the tab. 
-
-![reboot_device](../images/layouts/layoutsLayerEditOptions.png ":size=100%")
-
-To apply the changes, press the Apply Dimension and Position button before pressing the Publish button. If the layout has a bigger dimension, the user can use the slidebar to adjust the view so that the whole layout can be seen.
-
-![reboot_device](../images/layouts/layoutsLayerEditOptions2.png ":size=100%")
-
-To remove a layer, click the 3-dot icon and a remove option will be shown. 
-
-![reboot_device](../images/layouts/layoutsLayersDeviceRemoveLayer.png ":size=100%")
-
 </div>
 
-# Delete Layout
+# 레이어
 
 <div class="description">
 
-To delete a layout, choose a layout then click the 3-dot icon and press the delete option from the dropdown menu.
+기본 활성 탭은 텍스트, 미디어 및 재생 목록 레이어로 구성된 레이어입니다.
+
+![reboot_device](../images/layouts/layoutsLayersDevicesTab.png ":size=100%")
+
+새 텍스트 레이어를 추가하려면 새 레이어 추가 버튼을 누른 후 드롭다운 아래의 텍스트 옵션을 누릅니다.
+
+![reboot_device](../images/layouts/layoutsLayersDeviceAddText.png ":size=100%")
+
+모달이 나타나면 레이어의 이름을 입력합니다. 텍스트는 다른 언어로 번역할 수 있지만 옵션은 제한되어 있습니다. 사용자는 텍스트의 활성화 여부, 반전 여부 등을 설정할 수 있습니다. 레이어의 초기 위치를 설정하려면 x 및 y 값을 설정하고, 레이어의 크기를 변경하려면 기본값인 너비와 높이를 변경합니다. 텍스트 레이어의 원하는 글꼴 크기, 글꼴 스타일, 글꼴 색상 및 배경색을 선택합니다.
+
+![reboot_device](../images/layouts/layoutsLayersDeviceAddModalText.png ":size=100%")
+
+새 미디어 레이어를 추가하려면 새 레이어 추가 버튼을 누른 후 드롭다운 아래의 이미지/동영상 옵션을 누릅니다.
+
+![reboot_device](../images/layouts/layoutsLayersDeviceAddMedia.png ":size=100%")
+
+사용자가 미디어 레이어를 추가하면 미디어 라이브러리에 업로드된 미디어가 모달에 표시됩니다.
+
+![reboot_device](../images/layouts/layoutsLayersDeviceAddModalMedia.png ":size=100%")
+
+새 재생목록 레이어를 추가하려면 새 레이어 추가 버튼을 누른 후 드롭다운 아래의 재생목록 옵션을 누릅니다.
+
+![reboot_device](../images/layouts/layoutsLayersDeviceAddPlaylist.png ":size=100%")
+
+재생목록 페이지에서 생성한 재생목록을 레이아웃에 사용하여 이미지 및 텍스트와 결합된 여러 미디어를 재생할 수 있습니다.
+
+![reboot_device](../images/layouts/layoutsLayersDeviceAddModalPlaylist.png ":size=100%")
+
+레이어를 편집하려면 점 3개 아이콘을 클릭하면 편집 옵션이 표시됩니다.
+
+![reboot_device](../images/layouts/layoutsLayersDeviceEditLayer.png ":size=100%")
+
+탭에서 주어진 옵션을 사용하여 레이어를 구성할 수 있습니다. 
+
+![reboot_device](../images/layouts/layoutsLayerEditOptions.png ":size=100%")
+
+일부 설정(변경 시)은 캔버스에 자동으로 적용되지 않습니다. 변경 사항을 적용하려면 '치수 및 위치 적용' 버튼을 누르세요. 레이아웃의 치수가 더 큰 경우 사용자는 슬라이드바를 사용하여 전체 레이아웃을 볼 수 있도록 보기를 조정할 수 있습니다.
+
+![Applye Dimension and Position](../images/layouts/apply-dimension-and-position.png ":size=100%")
+
+</div>
+
+# 일반 모드의 장치(동기화하지 않음)
+
+<div class="description">
+
+디바이스 탭(일반 모드 아래)에서 개별 디바이스와 디바이스 그룹을 모두 추가할 수 있는 옵션이 있습니다. 추가된 디바이스는 동기화 없이 레이아웃 캔버스의 전체 영역을 표시합니다.
+
+![Devices in Normal Mode](../images/layouts/layoutsLayersDevicesTab2.png ":size=100%")
+
+</div>
+
+# 영역 모드의 장치(동기화 사용)
+
+<div class="description">
+
+디바이스 탭(영역 모드 아래)에는 개별 디바이스만 추가할 수 있는 옵션이 있습니다. 추가된 디바이스는 지정한 레이아웃 캔버스의 영역에 표시됩니다.
+
+![Devices in Areas Mode](../images/layouts/device-list-areas-mode.png ":size=100%")
+
+처음 추가된 디바이스는 동일한 네트워크에 연결된 모든 디바이스의 '컨트롤러'로 지정됩니다. 컨트롤러를 변경하려면 점 3개 아이콘을 클릭하고 메뉴에서 '컨트롤러로 설정' 옵션을 선택합니다.
+
+![Set as Controller](../images/layouts/set-as-controller.png ":size=100%")
+
+점 3개 아이콘을 클릭하고 메뉴에서 '편집' 옵션을 선택하여 레이아웃 캔버스에서 디바이스의 위치와 크기를 업데이트할 수도 있습니다.
+
+![Modify Device Area](../images/layouts/modify-device-area.png ":size=100%")
+
+</div>
+
+# 콘텐츠 배포를 위한 게시
+
+<div class="description">
+
+변경 사항이 있을 때마다 게시 버튼에 노란색 배지가 나타납니다. 이 버튼을 클릭하면 수정 사항이 저장되고 지정한 장치에 배포됩니다.
+
+![Publish Changes](../images/layouts/publish-changes.png ":size=100%")
+
+</div>
+
+# 레이아웃 삭제
+
+<div class="description">
+
+레이아웃을 삭제하려면 레이아웃을 선택한 다음 점 3개 아이콘을 클릭하고 드롭다운 메뉴에서 삭제 옵션을 누릅니다.
 
 ![reboot_device](../images/layouts/layoutsDeleteLayout.png ":size=100%")
 
-When the modal appears, press the continue delete button.
+모달이 나타나면 삭제 계속 버튼을 누릅니다.
 
 ![reboot_device](../images/layouts/layoutsDeleteLayoutModal.png ":size=100%")
 
