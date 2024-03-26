@@ -41,7 +41,7 @@
 
 ![reboot_device](../images/devices/devicesRebootModal.png ":size=100%")
 
-# 디바이스 등록 취소
+# 장치 등록 취소
 
 <div class="description">
 

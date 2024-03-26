@@ -32,10 +32,35 @@
       href="/images/favicon/favicon-16x16.png"
     />
     <link rel="manifest" href="/images/favicon/site.webmanifest" />
+
+    <style>
+      .scroll-to-top {
+        display: none;
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        z-index: 99;
+        cursor: pointer;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 50%;
+        width: 40px;
+        height: 40px;
+        font-size: 24px;
+        text-align: center;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+        transition: background-color 0.3s ease-in-out;
+      }
+      .scroll-to-top:hover {
+        background-color: #0056b3;
+      }
+    </style>
   </head>
 
   <body>
     <div id="app"></div>
+    <button class="scroll-to-top" onclick="scrollToTop()">↑</button>
     <script>
       window.$docsify = {
         name: "Digital Barricade",
@@ -57,6 +82,27 @@
         sidebarDisplayLevel: 1,
         hideOtherSidebarContent: true,
       };
+      function scrollToTop() {
+        const scrollDuration = 300;
+        const scrollStep = -window.scrollY / (scrollDuration / 15);
+        const scrollInterval = setInterval(function () {
+            if (window.scrollY !== 0) {
+                window.scrollBy(0, scrollStep);
+            } else {
+                clearInterval(scrollInterval);
+            }
+        }, 15);
+    }
+    window.onscroll = function () {
+        if (
+            document.body.scrollTop > 20 ||
+            document.documentElement.scrollTop > 20
+        ) {
+            document.querySelector(".scroll-to-top").style.display = "block";
+        } else {
+            document.querySelector(".scroll-to-top").style.display = "none";
+        }
+    };
     </script>
     <!-- Docsify v4 -->
     <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>

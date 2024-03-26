@@ -30,7 +30,7 @@
 
 </div>
 
-# 기간 기반
+# 기간 기반 재생 목록
 
 <div class="description">
 

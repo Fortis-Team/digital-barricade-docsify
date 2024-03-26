@@ -54,6 +54,7 @@ To navigate to the created layout and add layers, devices, and device groups, pr
 # Layers
 
 <div class="description">
+
 The default active tab is the Layers which consists of text, media, and playlist layers.
 
 ![reboot_device](/images/layouts/layoutsLayersDevicesTab.png ":size=100%")
@@ -94,18 +95,22 @@ Some of the settings(on change) are not automatically applied to canvas. To appl
 
 ![Applye Dimension and Position](/images/layouts/apply-dimension-and-position.png ":size=100%")
 
+</div>
 
 # Devices in Normal Mode(without Sync)
 
 <div class="description">
+
 In the Devices tab (under Normal mode), you have the option to add both individual devices and device groups. The devices added will display the entire area of the layout canvas, without synchronization.
 
 ![Devices in Normal Mode](/images/layouts/layoutsLayersDevicesTab2.png ":size=100%")
+
 </div>
 
 # Devices in Areas Mode(with Sync)
 
 <div class="description">
+
 In the Devices tab (under Areas mode), you only have the option to add individual devices. The devices added will display the area of the layout canvas you have specified.
 
 ![Devices in Areas Mode](/images/layouts/device-list-areas-mode.png ":size=100%")
@@ -117,6 +122,7 @@ The first device added will be designated as the "Controller" for all devices co
 We can also update the position and dimension of the device in the layout canvas by clicking three dots icon and select the "Edit" option from the menu.
 
 ![Modify Device Area](/images/layouts/modify-device-area.png ":size=100%")
+
 </div>
 
 # Publish to Deploy Content
@@ -132,6 +138,7 @@ Whenever changes are made, a yellow badge will appear on the Publish button. By 
 # Delete Layout
 
 <div class="description">
+
 To delete a layout, choose a layout then click the 3-dot icon and press the delete option from the dropdown menu.
 
 ![reboot_device](/images/layouts/layoutsDeleteLayout.png ":size=100%")
@@ -139,4 +146,5 @@ To delete a layout, choose a layout then click the 3-dot icon and press the dele
 When the modal appears, press the continue delete button.
 
 ![reboot_device](/images/layouts/layoutsDeleteLayoutModal.png ":size=100%")
+
 </div>
